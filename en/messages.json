@@ -1,0 +1,83 @@
+{
+  "quasar_description": {
+    "message": "Small tool for Feedly. Display unread count, Subscribe, Remove Ads feeds and etc..."
+  },
+  "quasar_name": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload": {
+    "message": "Article auto load"
+  },
+  "options_autoload_disable": {
+    "message": "Disable"
+  },
+  "options_autoload_fullfeed": {
+    "message": "fullfeed"
+  },
+  "options_autoload_readability": {
+    "message": "Readability"
+  },
+  "options_autoload_instapaper": {
+    "message": "Instapaper"
+  },
+  "options_autoload_diffbot": {
+    "message": "DiffBot"
+  },
+  "options_autoload_feedlytool": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload_empty_fullfeed": {
+    "message": "fullfeed at empty"
+  },
+  "options_autoload_empty_readability": {
+    "message": "Readability at empty"
+  },
+  "options_autoload_empty_instapaper": {
+    "message": "Instapaper at empty"
+  },
+  "options_autoload_empty_diffbot": {
+    "message": "DiffBot at empty"
+  },
+  "options_autoload_empty_feedlytool": {
+    "message": "FeedlyTool at empty"
+  },
+  "options_autoload_seved": {
+    "message": "Setting Saved."
+  },
+  "options_group_settings": {
+    "message": "Delete settings"
+  },
+  "options_delete_token_and_setting": {
+    "message": "Delete token and setting."
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "Cancel"
+  },
+  "options_buttons_confirm": {
+    "message": "Are you sure to delete?"
+  },
+  "options_buttons_deleted": {
+    "message": "Complete."
+  },
+  "mark_above_as_read": {
+    "message": "Mark above as read"
+  },
+  "get_token_confirm": {
+    "message": "Are you sure to re-authentication to get access token?"
+  },
+  "get_token_success": {
+    "message": "Succeeded to get the access token."
+  },
+  "get_token_failure": {
+    "message": "Failed to get the access token."
+  },
+  "open_feedly": {
+    "message": "Open Feedly"
+  },
+  "add_feedly": {
+    "message": "Subscribe in Feedly"
+  }
+}

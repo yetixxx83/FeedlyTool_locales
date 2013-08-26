@@ -1,0 +1,83 @@
+{
+  "quasar_description": {
+    "message": "Feedly的小工具。显示未读邮件数，订阅，清除饲料等。"
+  },
+  "quasar_name": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload": {
+    "message": "文章自动加载"
+  },
+  "options_autoload_disable": {
+    "message": "关闭"
+  },
+  "options_autoload_fullfeed": {
+    "message": "fullfeed"
+  },
+  "options_autoload_readability": {
+    "message": "Readability"
+  },
+  "options_autoload_instapaper": {
+    "message": "Instapaper"
+  },
+  "options_autoload_diffbot": {
+    "message": "DiffBot"
+  },
+  "options_autoload_feedlytool": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload_empty_fullfeed": {
+    "message": "fullfeed空"
+  },
+  "options_autoload_empty_readability": {
+    "message": "Readability空"
+  },
+  "options_autoload_empty_instapaper": {
+    "message": "Instapaper空"
+  },
+  "options_autoload_empty_diffbot": {
+    "message": "DiffBot空"
+  },
+  "options_autoload_empty_feedlytool": {
+    "message": "FeedlyTool空"
+  },
+  "options_autoload_seved": {
+    "message": "设置保存。"
+  },
+  "options_group_settings": {
+    "message": "删除设置"
+  },
+  "options_delete_token_and_setting": {
+    "message": "删除令牌和设置。"
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "Cancel"
+  },
+  "options_buttons_confirm": {
+    "message": "您确定要删除吗？"
+  },
+  "options_buttons_deleted": {
+    "message": "完成。"
+  },
+  "mark_above_as_read": {
+    "message": "上面标记为已读"
+  },
+  "get_token_confirm": {
+    "message": "你一定要重新认证，获得访问令牌？"
+  },
+  "get_token_success": {
+    "message": "成功获得访问令牌。"
+  },
+  "get_token_failure": {
+    "message": "无法获得访问令牌。"
+  },
+  "open_feedly": {
+    "message": "Feedly的打开"
+  },
+  "add_feedly": {
+    "message": "Feedly的订阅"
+  }
+}

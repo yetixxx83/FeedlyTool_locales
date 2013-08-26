@@ -1,0 +1,83 @@
+{
+  "quasar_description": {
+    "message": "Небольшая утилита для Feedly. Отображение непрочитанных писем, подпишитесь, удалить объявления кормов и т.д. .."
+  },
+  "quasar_name": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload": {
+    "message": "Статья нагрузка авто"
+  },
+  "options_autoload_disable": {
+    "message": "Отключить"
+  },
+  "options_autoload_fullfeed": {
+    "message": "fullfeed"
+  },
+  "options_autoload_readability": {
+    "message": "Readability"
+  },
+  "options_autoload_instapaper": {
+    "message": "Instapaper"
+  },
+  "options_autoload_diffbot": {
+    "message": "DiffBot"
+  },
+  "options_autoload_feedlytool": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload_empty_fullfeed": {
+    "message": "fullfeed на пустые"
+  },
+  "options_autoload_empty_readability": {
+    "message": "Readability на пустые"
+  },
+  "options_autoload_empty_instapaper": {
+    "message": "Instapaper на пустые"
+  },
+  "options_autoload_empty_diffbot": {
+    "message": "DiffBot на пустые"
+  },
+  "options_autoload_empty_feedlytool": {
+    "message": "FeedlyTool на пустые"
+  },
+  "options_autoload_seved": {
+    "message": "Установки сохранены."
+  },
+  "options_group_settings": {
+    "message": "Удалить настройки"
+  },
+  "options_delete_token_and_setting": {
+    "message": "Удалить маркер и настройки."
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "Cancel"
+  },
+  "options_buttons_confirm": {
+    "message": "Вы уверены, что хотите удалить это?"
+  },
+  "options_buttons_deleted": {
+    "message": "Завершить."
+  },
+  "mark_above_as_read": {
+    "message": "Отметить как прочитанное выше"
+  },
+  "get_token_confirm": {
+    "message": "Вы уверены, что к повторной аутентификации, чтобы получить маркер доступа?"
+  },
+  "get_token_success": {
+    "message": "Удалось получить маркер доступа."
+  },
+  "get_token_failure": {
+    "message": "Не удалось получить маркер доступа."
+  },
+  "open_feedly": {
+    "message": "Откройте Feedly"
+  },
+  "add_feedly": {
+    "message": "Подписка на Feedly"
+  }
+}

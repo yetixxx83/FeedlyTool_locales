@@ -1,0 +1,83 @@
+{
+  "quasar_description": {
+    "message": "Kis eszköz Feedly. Kijelző olvasatlan gróf, Feliratkozás, távolítsa el hirdetéseket takarmányok, stb ..."
+  },
+  "quasar_name": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload": {
+    "message": "Cikk automatikus terhelés"
+  },
+  "options_autoload_disable": {
+    "message": "Letiltása"
+  },
+  "options_autoload_fullfeed": {
+    "message": "fullfeed"
+  },
+  "options_autoload_readability": {
+    "message": "Readability"
+  },
+  "options_autoload_instapaper": {
+    "message": "Instapaper"
+  },
+  "options_autoload_diffbot": {
+    "message": "DiffBot"
+  },
+  "options_autoload_feedlytool": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload_empty_fullfeed": {
+    "message": "fullfeed az üres"
+  },
+  "options_autoload_empty_readability": {
+    "message": "Readability az üres"
+  },
+  "options_autoload_empty_instapaper": {
+    "message": "Instapaper az üres"
+  },
+  "options_autoload_empty_diffbot": {
+    "message": "DiffBot az üres"
+  },
+  "options_autoload_empty_feedlytool": {
+    "message": "FeedlyTool az üres"
+  },
+  "options_autoload_seved": {
+    "message": "Beállítás mentve."
+  },
+  "options_group_settings": {
+    "message": "Beállítások törlése"
+  },
+  "options_delete_token_and_setting": {
+    "message": "Törlés token és a beállítást."
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "Cancel"
+  },
+  "options_buttons_confirm": {
+    "message": "Biztos benne, hogy törli?"
+  },
+  "options_buttons_deleted": {
+    "message": "Teljes."
+  },
+  "mark_above_as_read": {
+    "message": "Mark fentebb olvasható"
+  },
+  "get_token_confirm": {
+    "message": "Biztos benne, hogy újbóli hitelesítést, hogy hozzáférjenek token?"
+  },
+  "get_token_success": {
+    "message": "Sikerült, hogy a hozzáférési token."
+  },
+  "get_token_failure": {
+    "message": "Nem kap a hozzáférési token."
+  },
+  "open_feedly": {
+    "message": "Nyissa Feedly"
+  },
+  "add_feedly": {
+    "message": "Iratkozzon fel Feedly"
+  }
+}

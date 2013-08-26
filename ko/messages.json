@@ -1,0 +1,83 @@
+{
+  "quasar_description": {
+    "message": "Feedly 제작을위한 작은 도구입니다. 읽지 않은 수를 표시 구독 광고 피드를 제거하고 등 .."
+  },
+  "quasar_name": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload": {
+    "message": "문서 자동로드"
+  },
+  "options_autoload_disable": {
+    "message": "사용 안함"
+  },
+  "options_autoload_fullfeed": {
+    "message": "fullfeed"
+  },
+  "options_autoload_readability": {
+    "message": "Readability"
+  },
+  "options_autoload_instapaper": {
+    "message": "Instapaper"
+  },
+  "options_autoload_diffbot": {
+    "message": "DiffBot"
+  },
+  "options_autoload_feedlytool": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload_empty_fullfeed": {
+    "message": "빈에서 fullfeed"
+  },
+  "options_autoload_empty_readability": {
+    "message": "빈에서 Readability"
+  },
+  "options_autoload_empty_instapaper": {
+    "message": "빈에서 Instapaper"
+  },
+  "options_autoload_empty_diffbot": {
+    "message": "빈에서 DiffBot"
+  },
+  "options_autoload_empty_feedlytool": {
+    "message": "빈에서 FeedlyTool"
+  },
+  "options_autoload_seved": {
+    "message": "설정을 저장합니다."
+  },
+  "options_group_settings": {
+    "message": "설정을 삭제"
+  },
+  "options_delete_token_and_setting": {
+    "message": "토큰 설정을 삭제합니다."
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "Cancel"
+  },
+  "options_buttons_confirm": {
+    "message": "당신을 삭제 하시겠습니까?"
+  },
+  "options_buttons_deleted": {
+    "message": "완성"
+  },
+  "mark_above_as_read": {
+    "message": "읽기 위의 표시"
+  },
+  "get_token_confirm": {
+    "message": "당신은 액세스 토큰을 얻을 수 재 인증을 하시겠습니까?"
+  },
+  "get_token_success": {
+    "message": "액세스 토큰을 얻기 위해 성공했다."
+  },
+  "get_token_failure": {
+    "message": "액세스 토큰을 가져 오지 못했습니다."
+  },
+  "open_feedly": {
+    "message": "Feedly의 열기"
+  },
+  "add_feedly": {
+    "message": "Feedly의에서 구독"
+  }
+}

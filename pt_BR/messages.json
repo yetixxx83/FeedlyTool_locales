@@ -1,0 +1,83 @@
+{
+  "quasar_description": {
+    "message": "Pequena ferramenta para Feedly. Mostrar contagem não lida, Assinar, Remove Ads feeds e etc .."
+  },
+  "quasar_name": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload": {
+    "message": "Artigo auto carga"
+  },
+  "options_autoload_disable": {
+    "message": "Desabilitar"
+  },
+  "options_autoload_fullfeed": {
+    "message": "fullfeed"
+  },
+  "options_autoload_readability": {
+    "message": "Readability"
+  },
+  "options_autoload_instapaper": {
+    "message": "Instapaper"
+  },
+  "options_autoload_diffbot": {
+    "message": "DiffBot"
+  },
+  "options_autoload_feedlytool": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload_empty_fullfeed": {
+    "message": "fullfeed no vazio"
+  },
+  "options_autoload_empty_readability": {
+    "message": "Readability no vazio"
+  },
+  "options_autoload_empty_instapaper": {
+    "message": "Instapaper no vazio"
+  },
+  "options_autoload_empty_diffbot": {
+    "message": "DiffBot no vazio"
+  },
+  "options_autoload_empty_feedlytool": {
+    "message": "FeedlyTool no vazio"
+  },
+  "options_autoload_seved": {
+    "message": "Configuração salva."
+  },
+  "options_group_settings": {
+    "message": "Excluir configurações"
+  },
+  "options_delete_token_and_setting": {
+    "message": "Excluir token e configuração."
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "Cancel"
+  },
+  "options_buttons_confirm": {
+    "message": "Tem certeza que quer deletar?"
+  },
+  "options_buttons_deleted": {
+    "message": "completo"
+  },
+  "mark_above_as_read": {
+    "message": "Marcar acima como lido"
+  },
+  "get_token_confirm": {
+    "message": "Tem certeza que deseja re-autenticação para obter o token de acesso?"
+  },
+  "get_token_success": {
+    "message": "Conseguiu obter o token de acesso."
+  },
+  "get_token_failure": {
+    "message": "Falha ao obter o token de acesso."
+  },
+  "open_feedly": {
+    "message": "Abra Feedly"
+  },
+  "add_feedly": {
+    "message": "Assine em Feedly"
+  }
+}

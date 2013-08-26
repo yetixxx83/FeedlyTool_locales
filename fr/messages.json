@@ -1,0 +1,83 @@
+{
+  "quasar_description": {
+    "message": "Petit outil pour Feedly. Afficher le nombre lu, S'abonner, Enlevez les pubs aliments, etc .."
+  },
+  "quasar_name": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload": {
+    "message": "Article chargement automatique"
+  },
+  "options_autoload_disable": {
+    "message": "Désactiv"
+  },
+  "options_autoload_fullfeed": {
+    "message": "fullfeed"
+  },
+  "options_autoload_readability": {
+    "message": "Readability"
+  },
+  "options_autoload_instapaper": {
+    "message": "Instapaper"
+  },
+  "options_autoload_diffbot": {
+    "message": "DiffBot"
+  },
+  "options_autoload_feedlytool": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload_empty_fullfeed": {
+    "message": "fullfeed à vide"
+  },
+  "options_autoload_empty_readability": {
+    "message": "Readability à vide"
+  },
+  "options_autoload_empty_instapaper": {
+    "message": "Instapaper à vide"
+  },
+  "options_autoload_empty_diffbot": {
+    "message": "DiffBot à vide"
+  },
+  "options_autoload_empty_feedlytool": {
+    "message": "FeedlyTool à vide"
+  },
+  "options_autoload_seved": {
+    "message": "Ce réglage est sauvegardé."
+  },
+  "options_group_settings": {
+    "message": "Supprimer les paramètres"
+  },
+  "options_delete_token_and_setting": {
+    "message": "Supprimer jeton et le réglage."
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "Cancel"
+  },
+  "options_buttons_confirm": {
+    "message": "Êtes-vous sûr de vouloir supprimer?"
+  },
+  "options_buttons_deleted": {
+    "message": "Compléter."
+  },
+  "mark_above_as_read": {
+    "message": "Marquer comme lu ci-dessus"
+  },
+  "get_token_confirm": {
+    "message": "Êtes-vous sûr de vouloir ré-authentification pour obtenir jeton d'accès?"
+  },
+  "get_token_success": {
+    "message": "Réussi à obtenir le jeton d'accès."
+  },
+  "get_token_failure": {
+    "message": "Impossible d'obtenir le jeton d'accès."
+  },
+  "open_feedly": {
+    "message": "Ouvrez Feedly"
+  },
+  "add_feedly": {
+    "message": "Abonnez-vous à Feedly"
+  }
+}

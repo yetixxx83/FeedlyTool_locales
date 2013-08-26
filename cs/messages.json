@@ -1,0 +1,83 @@
+{
+  "quasar_description": {
+    "message": "Malý nástroj pro Feedly. Zobrazit počet nepřečtených, Přihlásit, odstranit reklamy kanály a atd. .."
+  },
+  "quasar_name": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload": {
+    "message": "Článek auto zatížení"
+  },
+  "options_autoload_disable": {
+    "message": "Zakázat"
+  },
+  "options_autoload_fullfeed": {
+    "message": "fullfeed"
+  },
+  "options_autoload_readability": {
+    "message": "Readability"
+  },
+  "options_autoload_instapaper": {
+    "message": "Instapaper"
+  },
+  "options_autoload_diffbot": {
+    "message": "DiffBot"
+  },
+  "options_autoload_feedlytool": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload_empty_fullfeed": {
+    "message": "fullfeed na prázdný"
+  },
+  "options_autoload_empty_readability": {
+    "message": "Readability na prázdný"
+  },
+  "options_autoload_empty_instapaper": {
+    "message": "Instapaper na prázdný"
+  },
+  "options_autoload_empty_diffbot": {
+    "message": "DiffBot na prázdný"
+  },
+  "options_autoload_empty_feedlytool": {
+    "message": "FeedlyTool na prázdný"
+  },
+  "options_autoload_seved": {
+    "message": "Nastavení uložena."
+  },
+  "options_group_settings": {
+    "message": "Smazat nastavení"
+  },
+  "options_delete_token_and_setting": {
+    "message": "Odstranit tokenu a nastavení."
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "Cancel"
+  },
+  "options_buttons_confirm": {
+    "message": "Opravdu chcete smazat?"
+  },
+  "options_buttons_deleted": {
+    "message": "Kompletní."
+  },
+  "mark_above_as_read": {
+    "message": "Označit jako přečtené výše"
+  },
+  "get_token_confirm": {
+    "message": "Opravdu chcete re-autentizace získat přístup k tokenu?"
+  },
+  "get_token_success": {
+    "message": "Podařilo získat přístupový token."
+  },
+  "get_token_failure": {
+    "message": "Nepodařilo se získat přístupový token."
+  },
+  "open_feedly": {
+    "message": "Otevřete Feedly"
+  },
+  "add_feedly": {
+    "message": "Odebírat ve Feedly"
+  }
+}

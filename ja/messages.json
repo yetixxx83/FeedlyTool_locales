@@ -1,0 +1,83 @@
+{
+  "quasar_description": {
+    "message": "未読数の表示、フィードの登録、広告削除など、Feedlyを少しだけ便利にするツールです。"
+  },
+  "quasar_name": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload": {
+    "message": "記事の自動読み込み"
+  },
+  "options_autoload_disable": {
+    "message": "設定なし"
+  },
+  "options_autoload_fullfeed": {
+    "message": "fullfeed"
+  },
+  "options_autoload_readability": {
+    "message": "Readability"
+  },
+  "options_autoload_instapaper": {
+    "message": "Instapaper"
+  },
+  "options_autoload_diffbot": {
+    "message": "DiffBot"
+  },
+  "options_autoload_feedlytool": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload_empty_fullfeed": {
+    "message": "空の時はfullfeed"
+  },
+  "options_autoload_empty_readability": {
+    "message": "空の時はReadability"
+  },
+  "options_autoload_empty_instapaper": {
+    "message": "空の時はInstapaper"
+  },
+  "options_autoload_empty_diffbot": {
+    "message": "空の時はDiffBot"
+  },
+  "options_autoload_empty_feedlytool": {
+    "message": "空の時はFeedlyTool"
+  },
+  "options_autoload_seved": {
+    "message": "設定を保存しました。"
+  },
+  "options_group_settings": {
+    "message": "設定の削除"
+  },
+  "options_delete_token_and_setting": {
+    "message": "トークンと設定を削除する"
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "キャンセル"
+  },
+  "options_buttons_confirm": {
+    "message": "削除してよろしいですか？"
+  },
+  "options_buttons_deleted": {
+    "message": "削除しました。"
+  },
+  "mark_above_as_read": {
+    "message": "ここまで読んだ"
+  },
+  "get_token_confirm": {
+    "message": "アクセストークンを取得するため再認証します。\nよろしいですか？"
+  },
+  "get_token_success": {
+    "message": "アクセストークンの取得に成功しました。"
+  },
+  "get_token_failure": {
+    "message": "アクセストークンの取得に失敗しました。"
+  },
+  "open_feedly": {
+    "message": "Feedlyを開く"
+  },
+  "add_feedly": {
+    "message": "Feedlyで購読する"
+  }
+}

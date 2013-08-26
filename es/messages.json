@@ -1,0 +1,83 @@
+{
+  "quasar_description": {
+    "message": "Pequeña herramienta para Feedly. Mostrar recuento no leído, Suscribir, quitar los alimentos del mundo y etc .."
+  },
+  "quasar_name": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload": {
+    "message": "Artículo carga automática"
+  },
+  "options_autoload_disable": {
+    "message": "Desactivado"
+  },
+  "options_autoload_fullfeed": {
+    "message": "fullfeed"
+  },
+  "options_autoload_readability": {
+    "message": "Readability"
+  },
+  "options_autoload_instapaper": {
+    "message": "Instapaper"
+  },
+  "options_autoload_diffbot": {
+    "message": "Diffbot"
+  },
+  "options_autoload_feedlytool": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload_empty_fullfeed": {
+    "message": "fullfeed al vacío"
+  },
+  "options_autoload_empty_readability": {
+    "message": "Readability al vacío"
+  },
+  "options_autoload_empty_instapaper": {
+    "message": "Instapaper al vacío"
+  },
+  "options_autoload_empty_diffbot": {
+    "message": "Diffbot al vacío"
+  },
+  "options_autoload_empty_feedlytool": {
+    "message": "FeedlyTool al vacío"
+  },
+  "options_autoload_seved": {
+    "message": "Ajuste guardado."
+  },
+  "options_group_settings": {
+    "message": "Borrar ajustes"
+  },
+  "options_delete_token_and_setting": {
+    "message": "Eliminar token y ajuste."
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "Cancel"
+  },
+  "options_buttons_confirm": {
+    "message": "Está seguro que desea eliminar la Imagen?"
+  },
+  "options_buttons_deleted": {
+    "message": "Completa"
+  },
+  "mark_above_as_read": {
+    "message": "Marque anteriormente como leído"
+  },
+  "get_token_confirm": {
+    "message": "¿Estás seguro de re-autenticación para obtener el token de acceso?"
+  },
+  "get_token_success": {
+    "message": "Sucedido para obtener el token de acceso."
+  },
+  "get_token_failure": {
+    "message": "No se pudo obtener el token de acceso."
+  },
+  "open_feedly": {
+    "message": "Abra Feedly"
+  },
+  "add_feedly": {
+    "message": "Inscríbase en Feedly"
+  }
+}

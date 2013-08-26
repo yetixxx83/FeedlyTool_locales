@@ -1,0 +1,83 @@
+{
+  "quasar_description": {
+    "message": "Feedly için küçük bir araç. , Okunmamış sayısı Ekran ol, Reklamlar beslemeleri çıkarın ve vb .."
+  },
+  "quasar_name": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload": {
+    "message": "Madde otomatik yük"
+  },
+  "options_autoload_disable": {
+    "message": "Devre Dışı Bırak"
+  },
+  "options_autoload_fullfeed": {
+    "message": "fullfeed"
+  },
+  "options_autoload_readability": {
+    "message": "Readability"
+  },
+  "options_autoload_instapaper": {
+    "message": "Instapaper"
+  },
+  "options_autoload_diffbot": {
+    "message": "DiffBot"
+  },
+  "options_autoload_feedlytool": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload_empty_fullfeed": {
+    "message": "Boş de fullfeed"
+  },
+  "options_autoload_empty_readability": {
+    "message": "Boş de Readability"
+  },
+  "options_autoload_empty_instapaper": {
+    "message": "Boş de Instapaper"
+  },
+  "options_autoload_empty_diffbot": {
+    "message": "Boş de DiffBot"
+  },
+  "options_autoload_empty_feedlytool": {
+    "message": "Boş de FeedlyTool"
+  },
+  "options_autoload_seved": {
+    "message": "Ayar kaydedildi."
+  },
+  "options_group_settings": {
+    "message": "Ayarları sil"
+  },
+  "options_delete_token_and_setting": {
+    "message": "Simge ve ayarı silin."
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "Cancel"
+  },
+  "options_buttons_confirm": {
+    "message": "Silmek istediğinizden emin misiniz?"
+  },
+  "options_buttons_deleted": {
+    "message": "Tamamlayın."
+  },
+  "mark_above_as_read": {
+    "message": "Olarak okunur yukarıda İşaretle"
+  },
+  "get_token_confirm": {
+    "message": "Eğer erişim belirteci almak için yeniden kimlik doğrulama istediğinizden emin misiniz?"
+  },
+  "get_token_success": {
+    "message": "Erişim belirteci almak için başardı."
+  },
+  "get_token_failure": {
+    "message": "Erişim belirteci alınamadı."
+  },
+  "open_feedly": {
+    "message": "Feedly açın"
+  },
+  "add_feedly": {
+    "message": "Feedly abone içinde"
+  }
+}
