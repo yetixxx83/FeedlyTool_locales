@@ -1,0 +1,62 @@
+Function
+1. Fullfeed (embeded iframe)
+2. Readability, Instapaper, DiffBot, FeedlyTool Server (get content from these services.)
+3. AddThis button (add www.addthis.com button)
+4. Awesome styles (from userstyles.org)
+5. "Mark above as read" (list view only.)
+6. Add favicon (list view only.)
+7. Hatena Bookmark link
+8. Remove ads feeds (background by token)
+9. Unread count icon (need token)
+10. Open Feedly (to click icon)
+11. Subscription link (to click icon)
+12. Display days from last update in Index page (cloud.feedly.com/#index) (need token)
+13. Delete token and setting in option page
+
+Information
+Fullfeed suddenly close at  some website when use with adblock plus.
+Sorry. I wish you don't angry.
+
+History
+2013/08/27 v0.0.28 Fix css file to consider the position of "Feedly Full Feed" https://userscripts.org/scripts/show/171868.
+2013/08/26 v0.0.27 Add Czech and Hungarian resource.
+2013/08/25 v0.0.26 Support Feedly's UI change.
+2013/08/23 v0.0.25 Bugfix not get Hatena Bookmark cout and tweet count at Yahoo.jp news.
+2013/08/22 v0.0.24 Add tweet counts and Like counts. And add Spanish, Portuguese, Turkish and Korean resource.
+2013/08/19 v0.0.23 Bugfix not work Hatena Bookmark count at title.
+2013/08/19 v0.0.22 Bugfix remove ads condition.
+2013/08/19 v0.0.21 Bugfix to get favicon to publish by rssad and feedproxy.
+2013/08/18 v0.0.20 Bugfix to not open popup page at RSS site.
+2013/08/18 v0.0.19 Add to display days from last update in Index page (cloud.feedly.com/#index) and add to delete token and setting in option page.
+2013/08/17 v0.0.18 Add to rotate animation icon when discovered RSS.
+2013/08/16 v0.0.17 Single click to open Feedly at none RSS site.
+2013/08/16 v0.0.16 Add Subscription link function.
+2013/08/15 v0.0.15 Add remove ads feed at background by token.
+2013/08/14 v0.0.14 (experiment)Add unread count icon and need new permission. Need re-authentication to appear unread count, but not need re-authentication to use function ever had.
+2013/08/12 v0.0.13 Bugfix not work FeedlyTool's function of Fullfeed,Readability,Instapaper,DiffBot,FeedlyTool after "Feedly Full Feed" https://userscripts.org/scripts/show/171868 worked.
+2013/08/09 v0.0.12 German resource.And bugfix "Feedly Full Feed" https://userscripts.org/scripts/show/171868 can not work with FeedlyTool.
+2013/08/07 v0.0.11 Change icon and default language.
+2013/08/05 v0.0.10 Bugfix for Hatena Bookmark count does not work as a link.
+2013/08/05 v0.0.9 Add textability function by FeedlyTool server.On none support sites, This works as a Fullfeed function.
+2013/08/05 v0.0.8 Bugfix for Hatena Bookmark count at title.
+2013/08/05 v0.0.7 Add Remove ads feeds function, add Hatena Bookmark link And internal brush up.
+2013/08/01 v0.0.6 Add service selectable function when article is empty.
+2013/08/01 v0.0.5 Add "Mark above as read" function. And add favicon.(Both list view only.)
+2013/07/28 v0.0.4 Add French, Russian and Chinese resource. And fix AddThis icon's "more" does not work.
+2013/07/28 v0.0.3 Add Instapaper and DiffBot function. And add article auto loader setting.
+2013/07/27 v0.0.2 Add Readability function and styles.
+2013/07/23 v0.0.1 First release. Fullfeed and addThis function.
+
+Icon
+Open Icon Library - ZyMOS
+ http://sourceforge.net/projects/openiconlibrary/
+
+Loading animation
+nikesh.me - Ajax Style Loading Animation in CSS3 ( no Images )
+ http://www.nikesh.me/blog/2010/05/ajax-style-loading-animation-in-css3-no-images/
+
+Awesome styles
+Feedly Simple Style
+ http://userstyles.org/styles/90167/feedly-simple-style
+Feedly Full Width - Google Style Navigation Bar
+ http://userstyles.org/styles/84683/feedly-full-width-google-style-navigation-bar
