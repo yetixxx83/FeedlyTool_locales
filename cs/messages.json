@@ -65,6 +65,9 @@
   "mark_above_as_read": {
     "message": "Označit jako přečtené výše"
   },
+  "mark_above_not_star": {
+    "message": "Označit výše není hvězda"
+  },
   "get_token_confirm": {
     "message": "Opravdu chcete re-autentizace získat přístup k tokenu?"
   },

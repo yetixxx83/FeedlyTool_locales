@@ -65,6 +65,9 @@
   "mark_above_as_read": {
     "message": "上面标记为已读"
   },
+  "mark_above_not_star": {
+    "message": "标记不是星级以上"
+  },
   "get_token_confirm": {
     "message": "你一定要重新认证，获得访问令牌？"
   },

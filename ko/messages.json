@@ -65,6 +65,9 @@
   "mark_above_as_read": {
     "message": "읽기 위의 표시"
   },
+  "mark_above_not_star": {
+    "message": "이상하지 STAR 마크"
+  },
   "get_token_confirm": {
     "message": "당신은 액세스 토큰을 얻을 수 재 인증을 하시겠습니까?"
   },

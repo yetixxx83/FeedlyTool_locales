@@ -65,6 +65,9 @@
   "mark_above_as_read": {
     "message": "Marcar acima como lido"
   },
+  "mark_above_not_star": {
+    "message": "Marcar acima não estrela"
+  },
   "get_token_confirm": {
     "message": "Tem certeza que deseja re-autenticação para obter o token de acesso?"
   },

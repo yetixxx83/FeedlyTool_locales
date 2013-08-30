@@ -65,6 +65,9 @@
   "mark_above_as_read": {
     "message": "Olarak okunur yukarıda İşaretle"
   },
+  "mark_above_not_star": {
+    "message": "Yukarıda değil yıldız kabul et"
+  },
   "get_token_confirm": {
     "message": "Eğer erişim belirteci almak için yeniden kimlik doğrulama istediğinizden emin misiniz?"
   },

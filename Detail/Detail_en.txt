@@ -12,12 +12,14 @@ Function
 11. Subscription link (to click icon)
 12. Display days from last update in Index page (cloud.feedly.com/#index) (need token)
 13. Delete token and setting in option page
+14. "Mark above not star"
 
 Information
 Fullfeed suddenly close at  some website when use with adblock plus.
 Sorry. I wish you don't angry.
 
 History
+2013/08/31 v0.0.30 Add "Mark above not star" function at "Save for Later".
 2013/08/30 v0.0.29 Change to set auto load option each folder and feed(issues #1). And add Italian resource.
 2013/08/27 v0.0.28 Fix css file to consider the position of "Feedly Full Feed" https://userscripts.org/scripts/show/171868.
 2013/08/26 v0.0.27 Add Czech and Hungarian resource.

@@ -65,6 +65,9 @@
   "mark_above_as_read": {
     "message": "Mark above as read"
   },
+  "mark_above_not_star": {
+    "message": "Mark above not star"
+  },
   "get_token_confirm": {
     "message": "Are you sure to re-authentication to get access token?"
   },

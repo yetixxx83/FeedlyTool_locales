@@ -65,6 +65,9 @@
   "mark_above_as_read": {
     "message": "Segna sopra come letto"
   },
+  "mark_above_not_star": {
+    "message": "Segna sopra non stelle"
+  },
   "get_token_confirm": {
     "message": "Sei sicuro di ri-autenticazione per ottenere il token di accesso?"
   },

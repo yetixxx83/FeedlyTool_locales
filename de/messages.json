@@ -65,6 +65,9 @@
   "mark_above_as_read": {
     "message": "Markieren Sie oben als gelesen"
   },
+  "mark_above_not_star": {
+    "message": "Markieren Sie oben nicht star"
+  },
   "get_token_confirm": {
     "message": "Sind Sie sicher, dass eine erneute Authentifizierung auf Zugangs-Token zu bekommen?"
   },

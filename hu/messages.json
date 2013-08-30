@@ -65,6 +65,9 @@
   "mark_above_as_read": {
     "message": "Mark fentebb olvasható"
   },
+  "mark_above_not_star": {
+    "message": "Mark fenti nem csillag"
+  },
   "get_token_confirm": {
     "message": "Biztos benne, hogy újbóli hitelesítést, hogy hozzáférjenek token?"
   },

@@ -65,6 +65,9 @@
   "mark_above_as_read": {
     "message": "Marquer comme lu ci-dessus"
   },
+  "mark_above_not_star": {
+    "message": "Marquer ci-dessus ne etoiles"
+  },
   "get_token_confirm": {
     "message": "Êtes-vous sûr de vouloir ré-authentification pour obtenir jeton d'accès?"
   },
