@@ -18,6 +18,7 @@ Fullfeed suddenly close at  some website when use with adblock plus.
 Sorry. I wish you don't angry.
 
 History
+2013/08/30 v0.0.29 Change to set auto load option each folder and feed(issues #1). And add Italian resource.
 2013/08/27 v0.0.28 Fix css file to consider the position of "Feedly Full Feed" https://userscripts.org/scripts/show/171868.
 2013/08/26 v0.0.27 Add Czech and Hungarian resource.
 2013/08/25 v0.0.26 Support Feedly's UI change.

@@ -1,0 +1,83 @@
+{
+  "quasar_description": {
+    "message": "Piccolo strumento per Feedly. Visualizzare conteggio non letto, Iscriviti, Elimina la pubblicità alimenta e ecc .."
+  },
+  "quasar_name": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload": {
+    "message": "Articolo di caricamento automatico"
+  },
+  "options_autoload_disable": {
+    "message": "Disabilitare"
+  },
+  "options_autoload_fullfeed": {
+    "message": "fullfeed"
+  },
+  "options_autoload_readability": {
+    "message": "Readability"
+  },
+  "options_autoload_instapaper": {
+    "message": "Instapaper"
+  },
+  "options_autoload_diffbot": {
+    "message": "DiffBot"
+  },
+  "options_autoload_feedlytool": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload_empty_fullfeed": {
+    "message": "fullfeed a vuoto"
+  },
+  "options_autoload_empty_readability": {
+    "message": "Readability a vuoto"
+  },
+  "options_autoload_empty_instapaper": {
+    "message": "Instapaper a vuoto"
+  },
+  "options_autoload_empty_diffbot": {
+    "message": "DiffBot a vuoto"
+  },
+  "options_autoload_empty_feedlytool": {
+    "message": "FeedlyTool a vuoto"
+  },
+  "options_autoload_seved": {
+    "message": "Impostazione salvata."
+  },
+  "options_group_settings": {
+    "message": "Cancellare le impostazioni"
+  },
+  "options_delete_token_and_setting": {
+    "message": "Eliminare gettone e impostazione."
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "Cancel"
+  },
+  "options_buttons_confirm": {
+    "message": "Sei sicuro di voler cancellare?"
+  },
+  "options_buttons_deleted": {
+    "message": "Completa."
+  },
+  "mark_above_as_read": {
+    "message": "Segna sopra come letto"
+  },
+  "get_token_confirm": {
+    "message": "Sei sicuro di ri-autenticazione per ottenere il token di accesso?"
+  },
+  "get_token_success": {
+    "message": "Riuscito ad ottenere il token di accesso."
+  },
+  "get_token_failure": {
+    "message": "Impossibile ottenere il token di accesso."
+  },
+  "open_feedly": {
+    "message": "Aprire Feedly"
+  },
+  "add_feedly": {
+    "message": "Iscriviti a Feedly"
+  }
+}
