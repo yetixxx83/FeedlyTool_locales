@@ -1,15 +1,15 @@
 {
   "quasar_description": {
-    "message": "Feedly 제작을위한 작은 도구입니다. 읽지 않은 수를 표시 구독 광고 피드를 제거하고 등 .."
+    "message": "읽지 않은 수의 표시, 피드 등록, 광고 삭제 등 Feedly를 약간 편리한 도구입니다."
   },
   "quasar_name": {
     "message": "FeedlyTool"
   },
   "options_autoload": {
-    "message": "문서 자동로드"
+    "message": "기사 자동로드"
   },
   "options_autoload_disable": {
-    "message": "사용 안함"
+    "message": "설정 없음"
   },
   "options_autoload_fullfeed": {
     "message": "fullfeed"
@@ -27,60 +27,60 @@
     "message": "FeedlyTool"
   },
   "options_autoload_empty_fullfeed": {
-    "message": "빈에서 fullfeed"
+    "message": "빈 때는 fullfeed"
   },
   "options_autoload_empty_readability": {
-    "message": "빈에서 Readability"
+    "message": "빈 때는 Readability"
   },
   "options_autoload_empty_instapaper": {
-    "message": "빈에서 Instapaper"
+    "message": "빈 때는 Instapaper"
   },
   "options_autoload_empty_diffbot": {
-    "message": "빈에서 DiffBot"
+    "message": "빈 때는 DiffBot"
   },
   "options_autoload_empty_feedlytool": {
-    "message": "빈에서 FeedlyTool"
+    "message": "빈 때는 FeedlyTool"
   },
   "options_autoload_seved": {
-    "message": "설정을 저장합니다."
+    "message": "설정을 저장했습니다."
   },
   "options_group_settings": {
-    "message": "설정을 삭제"
+    "message": "설정 삭제"
   },
   "options_delete_token_and_setting": {
-    "message": "토큰 설정을 삭제합니다."
+    "message": "토큰 및 설정을 제거"
   },
   "options_buttons_ok": {
     "message": "OK"
   },
   "options_buttons_cancel": {
-    "message": "Cancel"
+    "message": "취소"
   },
   "options_buttons_confirm": {
-    "message": "당신을 삭제 하시겠습니까?"
+    "message": "삭제 하시겠습니까?"
   },
   "options_buttons_deleted": {
-    "message": "완성"
+    "message": "삭제했습니다."
   },
   "mark_above_as_read": {
-    "message": "읽기 위의 표시"
+    "message": "여기까지 읽은"
   },
   "mark_above_not_star": {
-    "message": "이상하지 STAR 마크"
+    "message": "여기까지 해제"
   },
   "get_token_confirm": {
-    "message": "당신은 액세스 토큰을 얻을 수 재 인증을 하시겠습니까?"
+    "message": "액세스 토큰을 얻기 위해 재 인증합니다. 할까요?"
   },
   "get_token_success": {
-    "message": "액세스 토큰을 얻기 위해 성공했다."
+    "message": "액세스 토큰의 취득에 성공했습니다."
   },
   "get_token_failure": {
-    "message": "액세스 토큰을 가져 오지 못했습니다."
+    "message": "액세스 토큰의 취득에 실패했습니다."
   },
   "open_feedly": {
-    "message": "Feedly의 열기"
+    "message": "Feedly 열기"
   },
   "add_feedly": {
-    "message": "Feedly의에서 구독"
+    "message": "Feedly 구독하기"
   }
 }
