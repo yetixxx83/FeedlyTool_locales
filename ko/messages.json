@@ -62,6 +62,15 @@
   "options_buttons_deleted": {
     "message": "삭제했습니다."
   },
+  "options_group_support": {
+    "message": "지원"
+  },
+  "options_support_site": {
+    "message": "사이트"
+  },
+  "options_support_forum": {
+    "message": "포럼"
+  },
   "mark_above_as_read": {
     "message": "여기까지 읽은"
   },

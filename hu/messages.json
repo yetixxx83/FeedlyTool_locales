@@ -62,6 +62,15 @@
   "options_buttons_deleted": {
     "message": "Teljes."
   },
+  "options_group_support": {
+    "message": "Tรกmogatรกs"
+  },
+  "options_support_site": {
+    "message": "Telek"
+  },
+  "options_support_forum": {
+    "message": "Fรณrum"
+  },
   "mark_above_as_read": {
     "message": "Mark fentebb olvasható"
   },

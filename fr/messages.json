@@ -62,6 +62,15 @@
   "options_buttons_deleted": {
     "message": "Compléter."
   },
+  "options_group_support": {
+    "message": "Soutenir"
+  },
+  "options_support_site": {
+    "message": "Site"
+  },
+  "options_support_forum": {
+    "message": "Forum"
+  },
   "mark_above_as_read": {
     "message": "Marquer comme lu ci-dessus"
   },

@@ -1,15 +1,15 @@
 {
   "quasar_description": {
-    "message": "Malý nástroj pro Feedly. Zobrazit počet nepřečtených, Přihlásit, odstranit reklamy kanály a atd. .."
+    "message": "Kleine tool voor Feedly. Weer ongelezen tellen, Abonneer, Remove Ads feeds en etc..."
   },
   "quasar_name": {
     "message": "FeedlyTool"
   },
   "options_autoload": {
-    "message": "Článek auto zatížení"
+    "message": "Artikel automatische load"
   },
   "options_autoload_disable": {
-    "message": "Zakázat"
+    "message": "Uitschakelen"
   },
   "options_autoload_fullfeed": {
     "message": "fullfeed"
@@ -27,28 +27,28 @@
     "message": "FeedlyTool"
   },
   "options_autoload_empty_fullfeed": {
-    "message": "fullfeed na prázdný"
+    "message": "fullfeed bij lege"
   },
   "options_autoload_empty_readability": {
-    "message": "Readability na prázdný"
+    "message": "Readability bij lege"
   },
   "options_autoload_empty_instapaper": {
-    "message": "Instapaper na prázdný"
+    "message": "Instapaper bij lege"
   },
   "options_autoload_empty_diffbot": {
-    "message": "DiffBot na prázdný"
+    "message": "DiffBot bij lege"
   },
   "options_autoload_empty_feedlytool": {
-    "message": "FeedlyTool na prázdný"
+    "message": "FeedlyTool bij lege"
   },
   "options_autoload_seved": {
-    "message": "Nastavení uložena."
+    "message": "Instellen Opgeslagen."
   },
   "options_group_settings": {
-    "message": "Smazat nastavení"
+    "message": "Instellingen wissen"
   },
   "options_delete_token_and_setting": {
-    "message": "Odstranit tokenu a nastavení."
+    "message": "Delete token en omgeving."
   },
   "options_buttons_ok": {
     "message": "OK"
@@ -57,39 +57,39 @@
     "message": "Cancel"
   },
   "options_buttons_confirm": {
-    "message": "Opravdu chcete smazat?"
+    "message": "Verwijderen?"
   },
   "options_buttons_deleted": {
-    "message": "Kompletní."
+    "message": "Voltooien."
   },
   "options_group_support": {
-    "message": "Podpora"
+    "message": "Ondersteunen"
   },
   "options_support_site": {
-    "message": "Místo"
+    "message": "Plaats"
   },
   "options_support_forum": {
     "message": "Forum"
   },
   "mark_above_as_read": {
-    "message": "Označit jako přečtené výše"
+    "message": "Markeer boven als gelezen"
   },
   "mark_above_not_star": {
-    "message": "Označit výše není hvězda"
+    "message": "Markeer hierboven niet ster"
   },
   "get_token_confirm": {
-    "message": "Opravdu chcete re-autentizace získat přístup k tokenu?"
+    "message": "Weet u zeker dat re-authenticatie om toegang token te krijgen?"
   },
   "get_token_success": {
-    "message": "Podařilo získat přístupový token."
+    "message": "In geslaagd om de toegang token te krijgen."
   },
   "get_token_failure": {
-    "message": "Nepodařilo se získat přístupový token."
+    "message": "Niet in geslaagd de toegang token te krijgen."
   },
   "open_feedly": {
-    "message": "Otevřete Feedly"
+    "message": "Open Feedly"
   },
   "add_feedly": {
-    "message": "Odebírat ve Feedly"
+    "message": "Abonneren in Feedly"
   }
 }

@@ -62,6 +62,15 @@
   "options_buttons_deleted": {
     "message": "Завершить."
   },
+  "options_group_support": {
+    "message": "Поддерживать"
+  },
+  "options_support_site": {
+    "message": "Сайт"
+  },
+  "options_support_forum": {
+    "message": "Форум"
+  },
   "mark_above_as_read": {
     "message": "Отметить как прочитанное выше"
   },

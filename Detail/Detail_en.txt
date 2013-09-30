@@ -13,12 +13,19 @@ Function
 12. Display days from last update in Index page (cloud.feedly.com/#index) (need token)
 13. Delete token and setting in option page
 14. "Mark above not star"
+15. Assign shortcut key 1-5 Fullfeed,Readability,Instapaper,DiffBot,FeedlyTool.
 
 Information
-Fullfeed suddenly close at  some website when use with adblock plus.
-Sorry. I wish you don't angry.
+Fullfeed suddenly close at  some website when use with adblock plus.Sorry. I wish you don't angry.
+Wrong work Fullfeed at https access. It is changing by Chrome's security policy.
 
 History
+2013/10/01 v0.0.36 Bugfix unread count problem when count over 9999. And add link to support page at option page.
+2013/09/30 v0.0.35 Change to https connect when call Feedly API.
+2013/09/24 v0.0.34 Assign shortcut key 1-5 Fullfeed,Readability,Instapaper,DiffBot,FeedlyTool.
+2013/09/16 v0.0.33 Fix to not work Fullfeed and Instapaper at https access. Fullfeed has little changed. And add Dutch resource.
+2013/09/11 v0.0.32 Display unread count on category tree.
+2013/09/06 v0.0.31 Bugfix to open double Feedly tab at initial boot.
 2013/08/31 v0.0.30 Add "Mark above not star" function at "Save for Later".
 2013/08/30 v0.0.29 Change to set auto load option each folder and feed(issues #1). And add Italian resource.
 2013/08/27 v0.0.28 Fix css file to consider the position of "Feedly Full Feed" https://userscripts.org/scripts/show/171868.

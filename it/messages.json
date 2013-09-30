@@ -62,6 +62,15 @@
   "options_buttons_deleted": {
     "message": "Completa."
   },
+  "options_group_support": {
+    "message": "Sostenere"
+  },
+  "options_support_site": {
+    "message": "Sito"
+  },
+  "options_support_forum": {
+    "message": "Forum"
+  },
   "mark_above_as_read": {
     "message": "Segna sopra come letto"
   },

@@ -62,6 +62,15 @@
   "options_buttons_deleted": {
     "message": "完成。"
   },
+  "options_group_support": {
+    "message": "支持"
+  },
+  "options_support_site": {
+    "message": "現場"
+  },
+  "options_support_forum": {
+    "message": "論壇"
+  },
   "mark_above_as_read": {
     "message": "上面標記為已讀"
   },

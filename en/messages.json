@@ -62,6 +62,15 @@
   "options_buttons_deleted": {
     "message": "Complete."
   },
+  "options_group_support": {
+    "message": "Support"
+  },
+  "options_support_site": {
+    "message": "Site"
+  },
+  "options_support_forum": {
+    "message": "Forum"
+  },
   "mark_above_as_read": {
     "message": "Mark above as read"
   },
