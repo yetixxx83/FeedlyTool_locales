@@ -1,24 +1,24 @@
-Feature
-1. Fullfeed (embeded iframe)
-2. Readability, Instapaper, DiffBot, FeedlyTool Server (get content from these services)
-3. AddThis button (add www.addthis.com button)
-4. Awesome styles (from userstyles.org)
-5. "Mark above as read" (list view only)
-6. Add favicon (list view only)
-7. Hatena Bookmark link
-8. Remove ads feeds (background)
-9. Unread count icon
-10. Open Feedly (to click icon)
-11. Subscription link (to click icon)
-12. Display days from last update in Index page (cloud.feedly.com/#index)
-13. Delete token and setting in option page
-14. "Mark above not star"
-15. Assign shortcut key 1-5 Fullfeed, Readability, Instapaper, DiffBot, FeedlyTool.
-16. Feed search by google site search.
+特點
+1. Fullfeed（嵌入式的iframe）
+2. Readability, Instapaper, DiffBot, FeedlyTool Server（從這些服務中獲得內容。）
+3. addthis按鈕（加www.addthis.com按鈕）
+4. 真棒風格（從userstyles.org）
+5. “標記上面為已讀”（僅列表視圖。）
+6. 添加網站圖標（列表視圖。）
+7. Hatena書籤鏈接
+8. 移除廣告供稿（背景）
+9. 未讀計數圖標
+10. Feedly的打開（點擊圖標）
+11. 訂閱鏈接（點擊圖標）
+12. 顯示最後更新的索引頁​​（cloud.feedly.com/#index）
+13. 刪除令牌和設置，在選項頁
+14. “標記上面不是明星”
+15. 指定快捷鍵1-5 Fullfeed, Readability, Instapaper, DiffBot, FeedlyTool。
+16. 飼料搜索通過谷歌網站搜索。
 
-Information
-Fullfeed suddenly close at  some website when use with adblock plus. Sorry, I wish you don't angry.
-Wrong work Fullfeed at https access. It is changing by Chrome's security policy.
+信息
+突然Fullfeed接近時，在一些網站使用Adblock Plus。對不起，我希望你不要生氣。
+錯誤的工作Fullfeed https訪問。它改變Chrome的安全政策。
 
 History
 2013/10/13 v0.0.40 Bugfix to not work the site search box at "All". (However, there is a limit of 2048 bytes and 32 words in Google search)

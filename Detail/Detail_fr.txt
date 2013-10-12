@@ -1,0 +1,77 @@
+caractéristique
+1. Fullfeed (embeded iframe)
+2. Readability, Instapaper, diffbot, FeedlyTool Server (obtenir du contenu de ces services)
+3. AddThis bouton (bouton Ajouter www.addthis.com)
+4. Styles impressionnants (à partir de userstyles.org)
+5. "Marquer comme lu ci-dessus" (affichage de la liste uniquement)
+6. Ajouter favicon (affichage de la liste uniquement)
+7. Hatena Bookmark lien
+8. Supprimer les publicités RSS (fond)
+9. Icône de comptage non lus
+10. Ouvrez Feedly (cliquer sur l'icône)
+11. Lien d'abonnement (cliquer sur l'icône)
+12. Afficher jours de mise à jour dans la page d'index (cloud.feedly.com/#index)
+13. Supprimer jeton et la mise en page d'options
+14. "Marquer ci-dessus ne étoiles"
+15. Attribuer la touche raccourci 1-5 Fullfeed, Readability, Instapaper, diffbot, FeedlyTool.
+16. Nourrir recherche par google recherche du site.
+
+informations
+Fullfeed soudainement de près certains site quand utiliser avec Adblock Plus. Désolé, je souhaite vous ne le faites pas en colère.
+Travail mal Fullfeed à l'accès https. Il est en train de changer par la politique de sécurité de Chrome.
+
+histoire
+13/10/2013 v0.0.40 Correction de ne pas travailler le champ de recherche du site de "Tout". (Cependant, il ya une limite de 2048 octets et 32 mots dans Google search)
+09/10/2013 v0.0.39 Fix en vue Fullfeed, pour modifier la hauteur de l'iframe pour s'adapter à la longueur de la page de destination.
+09/10/2013 v0.0.38 ajouter Google boîte de recherche de site.
+07/10/2013 v0.0.37 Changement de https Hatena Bookmark comptage et le nombre de Tweet.
+01/10/2013 v0.0.36 problème de comptage non lu bug lorsque le comptage est terminé 9999. Et ajouter un lien à soutenir la page à la page des options.
+30/09/2013 v0.0.35 Changement de https connecter quand appel Feedly API.
+24/09/2013 v0.0.34 Attribuer raccourci clavier 1-5 Fullfeed, Readability, Instapaper, Diffbot, FeedlyTool.
+16/09/2013 v0.0.33 Fix fonctionne pas Fullfeed et Instapaper à l'accès https. Fullfeed a peu changé. Et ajoutez ressource néerlandais.
+11/09/2013 v0.0.32 afficher le nombre lu sur la catégorie arbre.
+06/09/2013 v0.0.31 Correction d'ouvrir l'onglet doubles Feedly au démarrage initial.
+31/08/2013 v0.0.30 Ajouter "Mark ci-dessus ne étoiles" fonction de "Enregistrer pour plus tard".
+30/08/2013 v0.0.29 Modifier pour définir l'option de chargement automatique chaque dossier et alimentation (questions n°1). Et ajoutez ressource italien.
+27/08/2013 v0.0.28 réparer le fichier css d'examiner la situation de "Feedly Full Feed" https://userscripts.org/scripts/show/171868 .
+26/08/2013 v0.0.27 Ajouter ressource tchèque et hongrois.
+25/08/2013 v0.0.26 soutien de Feedly changement UI.
+23/08/2013 v0.0.25 Correction pas eu Hatena Bookmark cout et le nombre de tweets à Yahoo.jp nouvelles.
+22/08/2013 v0.0.24 Ajouter compte tweet et comme le dénombrement. Et ajouter l'espagnol, le portugais ressource, turc et le coréen.
+19/08/2013 v0.0.23 Correction fonctionne pas Hatena Bookmark compte au titre.
+19/08/2013 v0.0.22 Correction supprimer les publicités état​.
+19/08/2013 v0.0.21 Correction d'obtenir favicon de publier par rssad et feedproxy.
+18/08/2013 v0.0.20 Correction de ne pas ouvrir la page déroulant en RSS site.
+18/08/2013 v0.0.19 Ajouter à afficher jours de la dernière mise à jour dans la page d'index (cloud.feedly.com/#index) et ajouter à supprimer jeton et la mise en page d'options.
+17/08/2013 v0.0.18 Ajouter à tourner icône d'animation lors de sa découverte RSS.
+16/08/2013 v0.0.17 Un seul clic pour ouvrir Feedly à aucun site RSS.
+16/08/2013 v0.0.16 ajouter la fonction de lien d'abonnement.
+15/08/2013 v0.0.15 Ajouter supprimer les publicités alimentation à fond par jeton.
+14/08/2013 v0.0.14 (expérience ) Ajouter icône de comptage non lu et ont besoin de nouvelles permission. Besoin de ré-authentification à apparaître nombre non lu , mais pas besoin de ré-authentification pour utiliser la fonction ait jamais eu.
+12/08/2013 v0.0.13 Correction fonctionne pas la fonction de FeedlyTool de Fullfeed, Readability, Instapaper, Diffbot, FeedlyTool après "Feedly Full Feed" https://userscripts.org/scripts/show/171868 travaillé.
+09/08/2013 v0.0.12 allemand Correction de resource.And "Feedly Full Feed" https://userscripts.org/scripts/show/171868 ne peut pas travailler avec FeedlyTool.
+07/08/2013 v0.0.11 Changement icône et la langue par défaut.
+05/08/2013 v0.0.10 Correction pour Hatena Bookmark comptage ne ​​fonctionne pas comme un lien.
+05/08/2013 v0.0.9 fonction textability Ajouter des sites de soutien à la personne FeedlyTool server. On, Cela fonctionne comme une fonction Fullfeed.
+05/08/2013 v0.0.8 Correction pour Hatena Bookmark compte au titre.
+05/08/2013 v0.0.7 ajouter supprimer annonces fonction RSS, ajouter Hatena Bookmark lien Et brosse interne vers le haut.
+01/08/2013 v0.0.6 Ajout de la fonction sélectionnable de service lorsque l'article est vide.
+01/08/2013 v0.0.5 Ajouter "Marquer comme lu ci-dessus" fonction. Et ajouter favicon. (Voir liste deux seulement.)
+28/07/2013 v0.0.4 Ajouter ressource français, russe et chinois. Et fixer "plus" ne fonctionne pas AddThis icône.
+28/07/2013 v0.0.3 Ajouter Instapaper et la fonction de diffbot. Et ajouter réglage du chargeur automatique de l'article.
+27/07/2013 v0.0.2 Ajout de la fonction de Readability et de styles.
+23/07/2013 v0.0.1 Première version. Fullfeed et la fonction AddThis.
+
+Icon
+Open Icon Library - ZyMOS
+ http://sourceforge.net/projects/openiconlibrary/
+
+Loading animation
+nikesh.me - Ajax Style Loading Animation in CSS3 ( no Images )
+ http://www.nikesh.me/blog/2010/05/ajax-style-loading-animation-in-css3-no-images/
+
+Awesome styles
+Feedly Simple Style
+ http://userstyles.org/styles/90167/feedly-simple-style
+Feedly Full Width - Google Style Navigation Bar
+ http://userstyles.org/styles/84683/feedly-full-width-google-style-navigation-bar
