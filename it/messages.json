@@ -47,6 +47,9 @@
   "options_group_settings": {
     "message": "Cancellare le impostazioni"
   },
+  "options_ads_match_word": {
+    "message": "Annunci rimuovono parola chiave (regexp, ignorare caso)"
+  },
   "options_delete_token_and_setting": {
     "message": "Eliminare gettone e impostazione."
   },
@@ -91,5 +94,12 @@
   },
   "add_feedly": {
     "message": "Iscriviti a Feedly"
+  },
+  "background_open_changelog_confirm": {
+    "message": "FeedlyTool è stato aggiornato per v$after$ da v$before$.\nVuoi controllare gli aggiornamenti?",
+    "placeholders": {
+      "before": {"content": "$1"},
+      "after": {"content": "$2"}
+    }
   }
 }

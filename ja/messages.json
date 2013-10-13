@@ -47,6 +47,9 @@
   "options_group_settings": {
     "message": "設定の削除"
   },
+  "options_ads_match_word": {
+    "message": "広告削除キーワード（正規表現＆大文字小文字区別無し）"
+  },
   "options_delete_token_and_setting": {
     "message": "トークンと設定を削除する"
   },
@@ -91,5 +94,12 @@
   },
   "add_feedly": {
     "message": "Feedlyで購読する"
+  },
+  "background_open_changelog_confirm": {
+    "message": "FeedlyToolが v$before$ から v$after$ へ更新されました。\n更新内容を確認しますか？",
+    "placeholders": {
+      "before": {"content": "$1"},
+      "after": {"content": "$2"}
+    }
   }
 }

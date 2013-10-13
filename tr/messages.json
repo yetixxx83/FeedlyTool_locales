@@ -47,6 +47,9 @@
   "options_group_settings": {
     "message": "Ayarları sil"
   },
+  "options_ads_match_word": {
+    "message": "Reklamlar (regexp, vaka görmezden) anahtar kelime çıkarın"
+  },
   "options_delete_token_and_setting": {
     "message": "Simge ve ayarı silin."
   },
@@ -91,5 +94,12 @@
   },
   "add_feedly": {
     "message": "Feedly abone içinde"
+  },
+  "background_open_changelog_confirm": {
+    "message": "FeedlyTool v$before$ gelen v$after$ için güncellendi.\nGüncellemeleri kontrol etmek istiyor musunuz?",
+    "placeholders": {
+      "before": {"content": "$1"},
+      "after": {"content": "$2"}
+    }
   }
 }

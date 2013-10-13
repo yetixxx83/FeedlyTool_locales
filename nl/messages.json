@@ -47,6 +47,9 @@
   "options_group_settings": {
     "message": "Instellingen wissen"
   },
+  "options_ads_match_word": {
+    "message": "Advertenties te verwijderen trefwoord (regexp, negeer geval)"
+  },
   "options_delete_token_and_setting": {
     "message": "Delete token en omgeving."
   },
@@ -91,5 +94,12 @@
   },
   "add_feedly": {
     "message": "Abonneren in Feedly"
+  },
+  "background_open_changelog_confirm": {
+    "message": "FeedlyTool is bijgewerkt om v$after$ uit v$before$.\nWil je updates controleren?",
+    "placeholders": {
+      "before": {"content": "$1"},
+      "after": {"content": "$2"}
+    }
   }
 }

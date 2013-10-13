@@ -47,6 +47,9 @@
   "options_group_settings": {
     "message": "설정 삭제"
   },
+  "options_ads_match_word": {
+    "message": "광고 제거 키워드 (정규 표현식, 대 소문자를 무시) "
+  },
   "options_delete_token_and_setting": {
     "message": "토큰 및 설정을 제거"
   },
@@ -91,5 +94,12 @@
   },
   "add_feedly": {
     "message": "Feedly 구독하기"
+  },
+  "background_open_changelog_confirm": {
+    "message": "FeedlyTool는 v$before$ 에서 v$after$ 으로 업데이트되었습니다.\n당신은 업데이트를 확인 하시겠습니까?",
+    "placeholders": {
+      "before": {"content": "$1"},
+      "after": {"content": "$2"}
+    }
   }
 }

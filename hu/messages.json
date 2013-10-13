@@ -47,6 +47,9 @@
   "options_group_settings": {
     "message": "Beállítások törlése"
   },
+  "options_ads_match_word": {
+    "message": "Hirdetések eltávolítása kulcsszó (regexp, figyelmen kívül hagyja az esetben)"
+  },
   "options_delete_token_and_setting": {
     "message": "Törlés token és a beállítást."
   },
@@ -91,5 +94,12 @@
   },
   "add_feedly": {
     "message": "Iratkozzon fel Feedly"
+  },
+  "background_open_changelog_confirm": {
+    "message": "FeedlyTool frissült v$after$ a v$before$.\nSzeretnéd a frissítéseket?",
+    "placeholders": {
+      "before": {"content": "$1"},
+      "after": {"content": "$2"}
+    }
   }
 }

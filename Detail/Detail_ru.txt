@@ -1,0 +1,44 @@
+особенность
+1. Fullfeed (поместить IFRAME)
+2. Readability, Instapaper, DiffBot, FeedlyTool сервера (получить содержание от этих услуг)
+3. AddThis кнопки (кнопка Добавить www.addthis.com)
+4. Высокий стилях (от userstyles.org)
+5. "Отметить как прочитанное выше" (список только просмотр)
+6. Добавить иконку (список только просмотр)
+7. Hatena Закладка ссылки
+8. Убрать рекламу корма (фон)
+9. Иконка Не количество
+10. Откройте Feedly (нажать значок)
+11. Подписка ссылке (нажать значок)
+12. Показать дней с последнего обновления в титульной странице (cloud.feedly.com/#index)
+13. Удалить маркер и настройки в опции страницы
+14. "Отметить выше, не звезда»
+15. Назначение сочетаний клавиш 1-5 Fullfeed, Readability, Instapaper, DiffBot, FeedlyTool.
+16. Кормить Искать по сайту Google.
+
+информация
+Fullfeed вдруг закрываются в некоторых веб-сайт при использовании с Adblock Plus. К сожалению, я желаю вам не сердиться.
+Исправлена ​​неверная работа Fullfeed на доступ HTTPS. Она изменяет политикой безопасности Chrome.
+
+Web site
+https://sites.google.com/site/feedlytool
+
+Change log
+https://sites.google.com/site/feedlytool/en/changelog
+
+Support forum
+https://groups.google.com/forum/#!forum/feedlytool-support
+
+Icon
+Open Icon Library - ZyMOS
+ http://sourceforge.net/projects/openiconlibrary/
+
+Loading animation
+nikesh.me - Ajax Style Loading Animation in CSS3 ( no Images )
+ http://www.nikesh.me/blog/2010/05/ajax-style-loading-animation-in-css3-no-images/
+
+Awesome styles
+Feedly Simple Style
+ http://userstyles.org/styles/90167/feedly-simple-style
+Feedly Full Width - Google Style Navigation Bar
+ http://userstyles.org/styles/84683/feedly-full-width-google-style-navigation-bar

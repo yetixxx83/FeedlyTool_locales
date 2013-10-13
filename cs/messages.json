@@ -47,6 +47,9 @@
   "options_group_settings": {
     "message": "Smazat nastavení"
   },
+  "options_ads_match_word": {
+    "message": "Reklamy odstranit klíčové slovo (regexp, nerozlišovat)"
+  },
   "options_delete_token_and_setting": {
     "message": "Odstranit tokenu a nastavení."
   },
@@ -91,5 +94,12 @@
   },
   "add_feedly": {
     "message": "Odebírat ve Feedly"
+  },
+  "background_open_changelog_confirm": {
+    "message": "FeedlyTool byl aktualizován na v$after$ z v$before$.\nChcete zkontrolovat aktualizace?",
+    "placeholders": {
+      "before": {"content": "$1"},
+      "after": {"content": "$2"}
+    }
   }
 }

@@ -47,6 +47,9 @@
   "options_group_settings": {
     "message": "Borrar ajustes"
   },
+  "options_ads_match_word": {
+    "message": "Anuncios Eliminar palabra (regexp, ignorar el caso)"
+  },
   "options_delete_token_and_setting": {
     "message": "Eliminar token y ajuste."
   },
@@ -91,5 +94,12 @@
   },
   "add_feedly": {
     "message": "Inscríbase en Feedly"
+  },
+  "background_open_changelog_confirm": {
+    "message": "FeedlyTool ha sido actualizado a la v$after$ de v$before$.\n¿Quieres comprobar las actualizaciones?",
+    "placeholders": {
+      "before": {"content": "$1"},
+      "after": {"content": "$2"}
+    }
   }
 }

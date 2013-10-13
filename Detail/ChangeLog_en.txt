@@ -1,0 +1,211 @@
+<div><span style="background-color:transparent;font-size:1em;line-height:1.5">
+<table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(255,255,255);border-width:1px">
+<tbody>
+<tr>
+<td>2013/10/14</td>
+<td>v0.0.41</td>
+<td>Add function to set "Ads remove keyword" at option pade.</td>
+</tr>
+<tr>
+<td>2013/10/13</td>
+<td>v0.0.40</td>
+<td>Bugfix to not work the site search box at "All". (However, there is a limit of 2048 bytes and 32 words in Google search)</td>
+</tr>
+<tr>
+<td>2013/10/09</td>
+<td>v0.0.39</td>
+<td>Fix in Fullfeed view, to change the height of the iframe to fit the length of the destination page.</td>
+</tr>
+<tr>
+<td>2013/10/09</td>
+<td>v0.0.38</td>
+<td>Add google site search box.</td>
+</tr>
+<tr>
+<td>2013/10/07</td>
+<td>v0.0.37</td>
+<td>Change to https Hatena Bookmark count and Tweet count.</td>
+</tr>
+<tr>
+<td>2013/10/01</td>
+<td>v0.0.36</td>
+<td>Bugfix unread count problem when count over 9999. And add link to support page at option page.</td>
+</tr>
+<tr>
+<td>2013/09/30</td>
+<td>v0.0.35</td>
+<td>Change to https connect when call Feedly API.</td>
+</tr>
+<tr>
+<td>2013/09/24</td>
+<td>v0.0.34</td>
+<td>Assign shortcut key 1-5 Fullfeed, Readability, Instapaper, DiffBot, FeedlyTool.</td>
+</tr>
+<tr>
+<td>2013/09/16</td>
+<td>v0.0.33</td>
+<td>Fix to not work Fullfeed and Instapaper at https access. Fullfeed has little changed. And add Dutch resource.</td>
+</tr>
+<tr>
+<td>2013/09/11</td>
+<td>v0.0.32</td>
+<td>Display unread count on category tree.</td>
+</tr>
+<tr>
+<td>2013/09/06</td>
+<td>v0.0.31</td>
+<td>Bugfix to open double Feedly tab at initial boot.</td>
+</tr>
+<tr>
+<td>2013/08/31</td>
+<td>v0.0.30</td>
+<td>Add "Mark above not star" function at "Save for Later".</td>
+</tr>
+<tr>
+<td>2013/08/30</td>
+<td>v0.0.29</td>
+<td>Change to set auto load option each folder and feed(issues #1). And add Italian resource.</td>
+</tr>
+<tr>
+<td>2013/08/27</td>
+<td>v0.0.28</td>
+<td>Fix css file to consider the position of <a href="https://userscripts.org/scripts/show/171868" target="_blank">"Feedly Full Feed"</a>.</td>
+</tr>
+<tr>
+<td>2013/08/26</td>
+<td>v0.0.27</td>
+<td>Add Czech and Hungarian resource.</td>
+</tr>
+<tr>
+<td>2013/08/25</td>
+<td>v0.0.26</td>
+<td>Support Feedly's UI change.</td>
+</tr>
+<tr>
+<td>2013/08/23</td>
+<td>v0.0.25</td>
+<td>Bugfix not get Hatena Bookmark cout and tweet count at Yahoo.jp news.</td>
+</tr>
+<tr>
+<td>2013/08/22</td>
+<td>v0.0.24</td>
+<td>Add tweet counts and Like counts. And add Spanish, Portuguese, Turkish and Korean resource.</td>
+</tr>
+<tr>
+<td>2013/08/19</td>
+<td>v0.0.23</td>
+<td>Bugfix not work Hatena Bookmark count at title.</td>
+</tr>
+<tr>
+<td>2013/08/19</td>
+<td>v0.0.22</td>
+<td>Bugfix remove ads condition.</td>
+</tr>
+<tr>
+<td>2013/08/19</td>
+<td>v0.0.21</td>
+<td>Bugfix to get favicon to publish by rssad and feedproxy.</td>
+</tr>
+<tr>
+<td>2013/08/18</td>
+<td>v0.0.20</td>
+<td>Bugfix to not open popup page at RSS site.</td>
+</tr>
+<tr>
+<td>2013/08/18</td>
+<td>v0.0.19</td>
+<td>Add to display days from last update in <a href="https://cloud.feedly.com/#index" target="_blank">Index page</a> and add to delete token and setting in option page.</td>
+</tr>
+<tr>
+<td>2013/08/17</td>
+<td>v0.0.18</td>
+<td>Add to rotate animation icon when discovered RSS.</td>
+</tr>
+<tr>
+<td>2013/08/16</td>
+<td>v0.0.17</td>
+<td>Single click to open Feedly at none RSS site.</td>
+</tr>
+<tr>
+<td>2013/08/16</td>
+<td>v0.0.16</td>
+<td>Add Subscription link function.</td>
+</tr>
+<tr>
+<td>2013/08/15</td>
+<td>v0.0.15</td>
+<td>Add remove ads feed at background by token.</td>
+</tr>
+<tr>
+<td>2013/08/14</td>
+<td>v0.0.14</td>
+<td>(experiment)Add unread count icon and need new permission. Need re-authentication to appear unread count, but not need re-authentication to use function ever had.</td>
+</tr>
+<tr>
+<td>2013/08/12</td>
+<td>v0.0.13</td>
+<td>Bugfix not work FeedlyTool's function of Fullfeed, Readability, Instapaper, DiffBot, FeedlyTool after <a href="https://userscripts.org/scripts/show/171868" target="_blank">"Feedly Full Feed"</a>.</td>
+</tr>
+<tr>
+<td>2013/08/09</td>
+<td>v0.0.12</td>
+<td>German resource.And bugfix <a href="https://userscripts.org/scripts/show/171868" target="_blank">"Feedly Full Feed"</a>&nbsp;can not work with FeedlyTool.</td>
+</tr>
+<tr>
+<td>2013/08/07</td>
+<td>v0.0.11</td>
+<td>Change icon and default language.</td>
+</tr>
+<tr>
+<td>2013/08/05</td>
+<td>v0.0.10</td>
+<td>Bugfix for Hatena Bookmark count does not work as a link.</td>
+</tr>
+<tr>
+<td>2013/08/05</td>
+<td>v0.0.9</td>
+<td>Add textability function by FeedlyTool server.On none support sites, This works as a Fullfeed function.</td>
+</tr>
+<tr>
+<td>2013/08/05</td>
+<td>v0.0.8</td>
+<td>Bugfix for Hatena Bookmark count at title.</td>
+</tr>
+<tr>
+<td>2013/08/05</td>
+<td>v0.0.7</td>
+<td>Add Remove ads feeds function, add Hatena Bookmark link And internal brush up.</td>
+</tr>
+<tr>
+<td>2013/08/01</td>
+<td>v0.0.6</td>
+<td>Add service selectable function when article is empty.</td>
+</tr>
+<tr>
+<td>2013/08/01</td>
+<td>v0.0.5</td>
+<td>Add "Mark above as read" function. And add favicon.(Both list view only.)</td>
+</tr>
+<tr>
+<td>2013/07/28</td>
+<td>v0.0.4</td>
+<td>Add French, Russian and Chinese resource. And fix AddThis icon's "more" does not work.</td>
+</tr>
+<tr>
+<td>2013/07/28</td>
+<td>v0.0.3</td>
+<td>Add Instapaper and DiffBot function. And add article auto loader setting.</td>
+</tr>
+<tr>
+<td>2013/07/27</td>
+<td>v0.0.2</td>
+<td>Add Readability function and styles.</td>
+</tr>
+<tr>
+<td style="width:82px;height:33px">2013/07/23</td>
+<td style="width:54px">v0.0.1</td>
+<td>First release. Fullfeed and addThis function.</td>
+</tr>
+</tbody>
+</table>
+</span></div>

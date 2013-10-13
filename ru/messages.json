@@ -47,6 +47,9 @@
   "options_group_settings": {
     "message": "Удалить настройки"
   },
+  "options_ads_match_word": {
+    "message": "Объявления удалить ключевое слово (регулярное выражение, игнорировать регистр)"
+  },
   "options_delete_token_and_setting": {
     "message": "Удалить маркер и настройки."
   },
@@ -91,5 +94,12 @@
   },
   "add_feedly": {
     "message": "Подписка на Feedly"
+  },
+  "background_open_changelog_confirm": {
+    "message": "FeedlyTool обновлен до v$after$ от v$before$.\nВы хотите, чтобы проверить обновления?",
+    "placeholders": {
+      "before": {"content": "$1"},
+      "after": {"content": "$2"}
+    }
   }
 }

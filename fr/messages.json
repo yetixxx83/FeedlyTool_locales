@@ -47,6 +47,9 @@
   "options_group_settings": {
     "message": "Supprimer les paramètres"
   },
+  "options_ads_match_word": {
+    "message": "Annonces supprimer mot-clé (regexp, ignorer la casse)"
+  },
   "options_delete_token_and_setting": {
     "message": "Supprimer jeton et le réglage."
   },
@@ -91,5 +94,12 @@
   },
   "add_feedly": {
     "message": "Abonnez-vous à Feedly"
+  },
+  "background_open_changelog_confirm": {
+    "message": "FeedlyTool a été mis à jour v$after$ de v$before$.\nVoulez-vous pour vérifier les mises à jour?",
+    "placeholders": {
+      "before": {"content": "$1"},
+      "after": {"content": "$2"}
+    }
   }
 }

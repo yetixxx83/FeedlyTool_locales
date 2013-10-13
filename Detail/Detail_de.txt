@@ -20,47 +20,14 @@ Informationen
 Fullfeed plötzlich close irgendwann Website verwenden, wenn mit Adblock Plus. Sorry, ich wünsche Ihnen nicht wütend.
 Falsches Arbeiten bei https-Zugriff Fullfeed. Es wird von Chrome Sicherheitspolitik im Wandel.
 
-Geschichte
-2013.10.13 v0.0.40 Bugfix nicht zu funktionieren die Website Suchfeld "All". (Allerdings gibt es eine Grenze von 2048 Bytes und 32 Wörter in Google-Suche)
-2013.10.09 v0.0.39 Fix in Fullfeed Ansicht, um die Höhe des iframe ändern, um die Länge des Ziel-Seite passen.
-2013.10.09 v0.0.38 hinzufügen Google Site Search Box.
-2013.10.07 v0.0.37 Veränderung auf https Hatena Bookmark Tweet zählen und zählen.
-2013.10.01 v0.0.36 Bugfix Anzahl ungelesener Problem, wenn über 9999 zählen. Und einen Link hinzufügen Seite an Seite Option unterstützen.
-2013.09.30 v0.0.35 Veränderung auf https verbinden, wenn rufen Feedly API.
-2013.09.24 v0.0.34 Tastenkombination zuweisen 1-5 Fullfeed, Readability, Instapaper, DiffBot, FeedlyTool.
-2013.09.16 v0.0.33 Fix, nicht arbeiten Fullfeed und Instapaper auf https-Zugriff. Fullfeed hat sich wenig geändert. Und fügen Dutch Ressource.
-2013.09.11 v0.0.32 anzeigen Anzahl ungelesener auf Kategorie Baum.
-2013.09.06 v0.0.31 Bugfix zu verdoppeln Feedly Registerkarte anfängliche Boot zu öffnen.
-2013.08.31 v0.0.30 hinzufügen "Mark oben nicht star" Funktion auf "Save for Later".
-2013.08.30 v0.0.29 ändern, um auto load-Option jeden Ordner und Futtermittel (Fragen Nr.1). Und fügen Italienisch Ressource.
-2013.08.27 v0.0.28 Fix CSS-Datei, um die Position von "Feedly Full Feed" https://userscripts.org/scripts/show/171868 berücksichtigen.
-2013.08.26 v0.0.27 hinzufügen Tschechisch und Ungarisch Ressource.
-2013.08.25 v0.0.26 Unterstützung Feedly ist UI ändern.
-2013.08.23 v0.0.25 Bugfix nicht Hatena Bookmark cout und tweet Zählung bei Yahoo.jp Nachrichten.
-2013.08.22 v0.0.24 hinzufügen tweet zählt und mag zählt. Und fügen Sie Spanisch, Portugiesisch, Türkisch und Koreanisch Ressource.
-2013.08.19 v0.0.23 Bugfix nicht Hatena Bookmark bei Titel zählen.
-2013.08.19 v0.0.22 Bugfix remove ads Zustand.
-2013.08.19 v0.0.21 Bugfix Favicon bekommen durch RSSAD und feedproxy veröffentlichen.
-2013.08.18 v0.0.20 Bugfix nicht öffnen popup bei RSS -Website.
-2013.08.18 v0.0.19 In den Tagen von den letzten Update in Index -Seite (cloud.feedly.com/#index) angezeigt und in den Token und Einstellung in Option Seite löschen.
-2013.08.17 v0.0.18 In den Animationsicons drehen, wenn entdeckt RSS.
-2013.08.16 v0.0.17 einem Klick zu öffnen um Feedly keine RSS-Website.
-2013.08.16 v0.0.16 Abonnement hinzufügen Link-Funktion.
-2013.08.15 v0.0.15 Add entfernen Anzeigen Futter im Hintergrund von Token.
-2013.08.14 v0.0.14 (Versuch ) In ungelesenen Anzahl Symbol und brauchen neue Genehmigung. Brauchen Sie eine erneute Authentifizierung zu ungelesenen Anzahl erscheinen, aber nicht müssen erneute Authentifizierung zu verwenden Funktion je hatte.
-2013.08.12 v0.0.13 Bugfix nicht FeedlyTool die Funktion von Fullfeed, Readability, Instapaper, DiffBot, FeedlyTool nach "Feedly Full Feed" https://userscripts.org/scripts/show/171868 gearbeitet.
-2013.08.09 v0.0.12 German resource.And Bugfix "Feedly Full Feed" https://userscripts.org/scripts/show/171868 kann nicht mit FeedlyTool arbeiten.
-2013.08.07 v0.0.11 Symbol ändern und Standardsprache.
-2013.08.05 v0.0.10 Bugfix für Hatena Bookmark zählen nicht als Link funktionieren.
-2013.08.05 v0.0.9 Add textability Funktion FeedlyTool server.On keine Support-Seiten funktioniert dies als Fullfeed Funktion.
-2013.08.05 v0.0.8 Bugfix für Hatena Bookmark bei Titel zählen.
-2013.08.05 v0.0.7 hinzufügen entfernen Anzeigen feeds Funktion , fügen Hatena Bookmark Link Und internen auffrischen.
-2013.08.01 v0.0.6 Dienst hinzufügen wählbare Funktion, wenn Artikel ist leer.
-2013.08.01 v0.0.5 ADD "oben als gelesen" Funktion. Und fügen Favicon. (Beide Liste nur zu sehen.)
-2013.07.28 v0.0.4 hinzufügen Französisch, Russisch und Chinesisch Ressource. Und fix AddThis Ikone "mehr" funktioniert nicht.
-2013.07.28 v0.0.3 hinzufügen Instapaper und DiffBot Funktion. Und fügen Sie Artikel Autoloader Einstellung.
-2013.07.27 v0.0.2 hinzufügen Readability Funktion und Stile.
-2013.07.23 v0.0.1 First release. Fullfeed und AddThis Funktion.
+Web site
+https://sites.google.com/site/feedlytool
+
+Change log
+https://sites.google.com/site/feedlytool/en/changelog
+
+Support forum
+https://groups.google.com/forum/#!forum/feedlytool-support
 
 Icon
 Open Icon Library - ZyMOS
