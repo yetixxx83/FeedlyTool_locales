@@ -3,6 +3,11 @@
 <tbody>
 <tr>
 <td>2013/10/14</td>
+<td>v0.0.42</td>
+<td>Fixed an issue where the ads remove keyword function is malfunctioning the first operation after updating, resulting in marked as read all unread. I am very sorry.</td>
+</tr>
+<tr>
+<td>2013/10/14</td>
 <td>v0.0.41</td>
 <td>Add function to set "Ads remove keyword" at option pade.</td>
 </tr>
