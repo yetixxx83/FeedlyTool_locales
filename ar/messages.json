@@ -1,0 +1,106 @@
+{
+  "quasar_description": {
+    "message": "أداة صغيرة لFeedly. عرض عدد الرسائل غير المقروءة، اشترك، وإزالة الإعلانات الأعلاف وغيرها .."
+  },
+  "quasar_name": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload": {
+    "message": "تحميل المادة السيارات"
+  },
+  "options_autoload_disable": {
+    "message": "تعطيل"
+  },
+  "options_autoload_fullfeed": {
+    "message": "fullfeed"
+  },
+  "options_autoload_readability": {
+    "message": "Readability"
+  },
+  "options_autoload_instapaper": {
+    "message": "Instapaper"
+  },
+  "options_autoload_diffbot": {
+    "message": "DiffBot"
+  },
+  "options_autoload_feedlytool": {
+    "message": "FeedlyTool"
+  },
+  "options_autoload_empty_fullfeed": {
+    "message": "fullfeed في فارغة"
+  },
+  "options_autoload_empty_readability": {
+    "message": "Readability في فارغة"
+  },
+  "options_autoload_empty_instapaper": {
+    "message": "Instapaper في فارغة"
+  },
+  "options_autoload_empty_diffbot": {
+    "message": "DiffBot في فارغة"
+  },
+  "options_autoload_empty_feedlytool": {
+    "message": "FeedlyTool في فارغة"
+  },
+  "options_autoload_seved": {
+    "message": "وضع المحفوظة."
+  },
+  "options_group_settings": {
+    "message": "إعدادات"
+  },
+  "options_ads_match_word": {
+    "message": "إعلانات إزالة الكلمة (REGEXP، تجاهل الحالة)"
+  },
+  "options_title_click_to_trash": {
+    "message": "انقر فوق سلة المهملات عندما اللقب."
+  },
+  "options_delete_token_and_setting": {
+    "message": "حذف رمزية والإعداد."
+  },
+  "options_buttons_ok": {
+    "message": "حسنا"
+  },
+  "options_buttons_cancel": {
+    "message": "إلغاء"
+  },
+  "options_buttons_confirm": {
+    "message": "هل أنت متأكد أن تحذف؟"
+  },
+  "options_buttons_deleted": {
+    "message": "كاملة."
+  },
+  "options_group_support": {
+    "message": "دعم"
+  },
+  "options_support_site": {
+    "message": "Site"
+  },
+  "options_support_forum": {
+    "message": "Forum"
+  },
+  "mark_above_as_read": {
+    "message": "علامة أعلاه للقراءة"
+  },
+  "mark_above_not_star": {
+    "message": "علامة أعلاه لا نجمة"
+  },
+  "open_feedly": {
+    "message": "مفتوحة Feedly"
+  },
+  "add_feedly": {
+    "message": "الاشتراك في Feedly"
+  },
+  "custom_search": {
+    "message": "اضغط دخول للبحث"
+  },
+  "background_open_changelog_confirm": {
+    "message": "تم تحديث FeedlyTool إلى $after$ من $before$\nهل تريد أن تحقق التحديثات؟",
+    "placeholders": {
+      "before": {
+        "content": "$1"
+      },
+      "after": {
+        "content": "$2"
+      }
+    }
+  }
+}

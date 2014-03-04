@@ -45,10 +45,13 @@
     "message": "Instellen Opgeslagen."
   },
   "options_group_settings": {
-    "message": "Instellingen wissen"
+    "message": "instellingen"
   },
   "options_ads_match_word": {
     "message": "Advertenties te verwijderen trefwoord (regexp, negeer geval)"
+  },
+  "options_title_click_to_trash": {
+    "message": "Klik prullenbak toen op de titel."
   },
   "options_delete_token_and_setting": {
     "message": "Delete token en omgeving."
@@ -80,20 +83,14 @@
   "mark_above_not_star": {
     "message": "Markeer hierboven niet ster"
   },
-  "get_token_confirm": {
-    "message": "Weet u zeker dat re-authenticatie om toegang token te krijgen?"
-  },
-  "get_token_success": {
-    "message": "In geslaagd om de toegang token te krijgen."
-  },
-  "get_token_failure": {
-    "message": "Niet in geslaagd de toegang token te krijgen."
-  },
   "open_feedly": {
     "message": "Open Feedly"
   },
   "add_feedly": {
     "message": "Abonneren in Feedly"
+  },
+  "custom_search": {
+    "message": "Druk op Enter om te zoeken"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool is bijgewerkt om v$after$ uit v$before$.\nWil je updates controleren?",

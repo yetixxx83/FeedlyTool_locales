@@ -1,6 +1,6 @@
 {
   "quasar_description": {
-    "message": "Piccolo strumento per Feedly. Visualizzare conteggio non letto, Iscriviti, Elimina la pubblicità alimenta e ecc .."
+    "message": "Piccolo strumento per Feedly. Visualizzare conteggio non letto, Iscriviti, Elimina la pubblicità alimenta e ecc..."
   },
   "quasar_name": {
     "message": "FeedlyTool"
@@ -45,10 +45,13 @@
     "message": "Impostazione salvata."
   },
   "options_group_settings": {
-    "message": "Cancellare le impostazioni"
+    "message": "impostazioni"
   },
   "options_ads_match_word": {
     "message": "Annunci rimuovono parola chiave (regexp, ignorare caso)"
+  },
+  "options_title_click_to_trash": {
+    "message": "Clicca spazzatura quando fare clic sul titolo."
   },
   "options_delete_token_and_setting": {
     "message": "Eliminare gettone e impostazione."
@@ -80,20 +83,14 @@
   "mark_above_not_star": {
     "message": "Segna sopra non stelle"
   },
-  "get_token_confirm": {
-    "message": "Sei sicuro di ri-autenticazione per ottenere il token di accesso?"
-  },
-  "get_token_success": {
-    "message": "Riuscito ad ottenere il token di accesso."
-  },
-  "get_token_failure": {
-    "message": "Impossibile ottenere il token di accesso."
-  },
   "open_feedly": {
     "message": "Aprire Feedly"
   },
   "add_feedly": {
     "message": "Iscriviti a Feedly"
+  },
+  "custom_search": {
+    "message": "Premere Invio per Ricerca"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool è stato aggiornato per v$after$ da v$before$.\nVuoi controllare gli aggiornamenti?",

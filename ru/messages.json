@@ -1,6 +1,6 @@
 {
   "quasar_description": {
-    "message": "Небольшая утилита для Feedly. Отображение непрочитанных писем, подпишитесь, удалить объявления кормов и т.д. .."
+    "message": "Небольшая утилита для Feedly. Отображение непрочитанных писем, подпишитесь, удалить объявления кормов и т.д..."
   },
   "quasar_name": {
     "message": "FeedlyTool"
@@ -45,10 +45,13 @@
     "message": "Установки сохранены."
   },
   "options_group_settings": {
-    "message": "Удалить настройки"
+    "message": "настройки"
   },
   "options_ads_match_word": {
     "message": "Объявления удалить ключевое слово (регулярное выражение, игнорировать регистр)"
+  },
+  "options_title_click_to_trash": {
+    "message": "Нажмите мусорное ведро нажмите на название."
   },
   "options_delete_token_and_setting": {
     "message": "Удалить маркер и настройки."
@@ -80,20 +83,14 @@
   "mark_above_not_star": {
     "message": "Отметить выше, не звезда"
   },
-  "get_token_confirm": {
-    "message": "Вы уверены, что к повторной аутентификации, чтобы получить маркер доступа?"
-  },
-  "get_token_success": {
-    "message": "Удалось получить маркер доступа."
-  },
-  "get_token_failure": {
-    "message": "Не удалось получить маркер доступа."
-  },
   "open_feedly": {
     "message": "Откройте Feedly"
   },
   "add_feedly": {
     "message": "Подписка на Feedly"
+  },
+  "custom_search": {
+    "message": "Нажмите Enter для поиска"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool обновлен до v$after$ от v$before$.\nВы хотите, чтобы проверить обновления?",

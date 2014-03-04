@@ -45,10 +45,13 @@
     "message": "設定を保存しました。"
   },
   "options_group_settings": {
-    "message": "設定の削除"
+    "message": "設定"
   },
   "options_ads_match_word": {
     "message": "広告削除キーワード（正規表現＆大文字小文字区別無し）"
+  },
+  "options_title_click_to_trash": {
+    "message": "タイトルクリック時にtrashを押す"
   },
   "options_delete_token_and_setting": {
     "message": "トークンと設定を削除する"
@@ -80,20 +83,14 @@
   "mark_above_not_star": {
     "message": "ここまで解除"
   },
-  "get_token_confirm": {
-    "message": "アクセストークンを取得するため再認証します。\nよろしいですか？"
-  },
-  "get_token_success": {
-    "message": "アクセストークンの取得に成功しました。"
-  },
-  "get_token_failure": {
-    "message": "アクセストークンの取得に失敗しました。"
-  },
   "open_feedly": {
     "message": "Feedlyを開く"
   },
   "add_feedly": {
     "message": "Feedlyで購読する"
+  },
+  "custom_search": {
+    "message": "Enterを押して検索"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyToolが v$before$ から v$after$ へ更新されました。\n更新内容を確認しますか？",

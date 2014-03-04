@@ -45,10 +45,13 @@
     "message": "设置保存。"
   },
   "options_group_settings": {
-    "message": "删除设置"
+    "message": "设置"
   },
   "options_ads_match_word": {
     "message": "广告删除关键字（正则表达式忽略大小写）"
+  },
+  "options_title_click_to_trash": {
+    "message": "点击标题时点击垃圾桶。"
   },
   "options_delete_token_and_setting": {
     "message": "删除令牌和设置。"
@@ -80,20 +83,14 @@
   "mark_above_not_star": {
     "message": "标记不是星级以上"
   },
-  "get_token_confirm": {
-    "message": "你一定要重新认证，获得访问令牌？"
-  },
-  "get_token_success": {
-    "message": "成功获得访问令牌。"
-  },
-  "get_token_failure": {
-    "message": "无法获得访问令牌。"
-  },
   "open_feedly": {
     "message": "Feedly的打开"
   },
   "add_feedly": {
     "message": "Feedly的订阅"
+  },
+  "custom_search": {
+    "message": "按Enter键搜索"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool已经更新到 v$after$ 从 v$before$。\n你要检查更新？",

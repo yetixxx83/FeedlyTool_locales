@@ -1,6 +1,6 @@
 {
   "quasar_description": {
-    "message": "Feedly için küçük bir araç. , Okunmamış sayısı Ekran ol, Reklamlar beslemeleri çıkarın ve vb .."
+    "message": "Feedly için küçük bir araç. , Okunmamış sayısı Ekran ol, Reklamlar beslemeleri çıkarın ve vb..."
   },
   "quasar_name": {
     "message": "FeedlyTool"
@@ -45,10 +45,13 @@
     "message": "Ayar kaydedildi."
   },
   "options_group_settings": {
-    "message": "Ayarları sil"
+    "message": "Ayarlar"
   },
   "options_ads_match_word": {
     "message": "Reklamlar (regexp, vaka görmezden) anahtar kelime çıkarın"
+  },
+  "options_title_click_to_trash": {
+    "message": "Başlığı tıkladığınızda çöp tıklatın."
   },
   "options_delete_token_and_setting": {
     "message": "Simge ve ayarı silin."
@@ -69,7 +72,7 @@
     "message": "Destek"
   },
   "options_support_site": {
-    "message": "Yer"
+    "message": "Site"
   },
   "options_support_forum": {
     "message": "Forum"
@@ -80,20 +83,14 @@
   "mark_above_not_star": {
     "message": "Yukarıda değil yıldız kabul et"
   },
-  "get_token_confirm": {
-    "message": "Eğer erişim belirteci almak için yeniden kimlik doğrulama istediğinizden emin misiniz?"
-  },
-  "get_token_success": {
-    "message": "Erişim belirteci almak için başardı."
-  },
-  "get_token_failure": {
-    "message": "Erişim belirteci alınamadı."
-  },
   "open_feedly": {
     "message": "Feedly açın"
   },
   "add_feedly": {
     "message": "Feedly abone içinde"
+  },
+  "custom_search": {
+    "message": "Basın Arama Enter"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool v$before$ gelen v$after$ için güncellendi.\nGüncellemeleri kontrol etmek istiyor musunuz?",

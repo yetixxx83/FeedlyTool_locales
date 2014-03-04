@@ -1,6 +1,6 @@
 {
   "quasar_description": {
-    "message": "Petit outil pour Feedly. Afficher le nombre lu, S'abonner, Enlevez les pubs aliments, etc .."
+    "message": "Petit outil pour Feedly. Afficher le nombre lu, S'abonner, Enlevez les pubs aliments, etc..."
   },
   "quasar_name": {
     "message": "FeedlyTool"
@@ -45,10 +45,13 @@
     "message": "Ce réglage est sauvegardé."
   },
   "options_group_settings": {
-    "message": "Supprimer les paramètres"
+    "message": "réglages"
   },
   "options_ads_match_word": {
     "message": "Annonces supprimer mot-clé (regexp, ignorer la casse)"
+  },
+  "options_title_click_to_trash": {
+    "message": "Cliquez poubelle lors de cliquez sur le titre."
   },
   "options_delete_token_and_setting": {
     "message": "Supprimer jeton et le réglage."
@@ -80,20 +83,14 @@
   "mark_above_not_star": {
     "message": "Marquer ci-dessus ne etoiles"
   },
-  "get_token_confirm": {
-    "message": "Êtes-vous sûr de vouloir ré-authentification pour obtenir jeton d'accès?"
-  },
-  "get_token_success": {
-    "message": "Réussi à obtenir le jeton d'accès."
-  },
-  "get_token_failure": {
-    "message": "Impossible d'obtenir le jeton d'accès."
-  },
   "open_feedly": {
     "message": "Ouvrez Feedly"
   },
   "add_feedly": {
     "message": "Abonnez-vous à Feedly"
+  },
+  "custom_search": {
+    "message": "Appuyez sur Entrée pour Recherche"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool a été mis à jour v$after$ de v$before$.\nVoulez-vous pour vérifier les mises à jour?",

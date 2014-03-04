@@ -45,10 +45,13 @@
     "message": "설정을 저장했습니다."
   },
   "options_group_settings": {
-    "message": "설정 삭제"
+    "message": "설정"
   },
   "options_ads_match_word": {
     "message": "광고 제거 키워드 (정규 표현식, 대 소문자를 무시) "
+  },
+  "options_title_click_to_trash": {
+    "message": "제목을 클릭하면 휴지통을 클릭합니다."
   },
   "options_delete_token_and_setting": {
     "message": "토큰 및 설정을 제거"
@@ -80,20 +83,14 @@
   "mark_above_not_star": {
     "message": "여기까지 해제"
   },
-  "get_token_confirm": {
-    "message": "액세스 토큰을 얻기 위해 재 인증합니다. 할까요?"
-  },
-  "get_token_success": {
-    "message": "액세스 토큰의 취득에 성공했습니다."
-  },
-  "get_token_failure": {
-    "message": "액세스 토큰의 취득에 실패했습니다."
-  },
   "open_feedly": {
     "message": "Feedly 열기"
   },
   "add_feedly": {
     "message": "Feedly 구독하기"
+  },
+  "custom_search": {
+    "message": "검색하려면 Enter를 누르세요"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool는 v$before$ 에서 v$after$ 으로 업데이트되었습니다.\n당신은 업데이트를 확인 하시겠습니까?",

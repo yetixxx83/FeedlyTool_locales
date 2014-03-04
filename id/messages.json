@@ -1,15 +1,15 @@
 {
   "quasar_description": {
-    "message": "Kis eszköz Feedly. Kijelző olvasatlan gróf, Feliratkozás, távolítsa el hirdetéseket takarmányok, stb..."
+    "message": "Alat kecil untuk Feedly. Tampilan count belum dibaca, Berlangganan, Hilangkan iklan feed dan lain-lain..."
   },
   "quasar_name": {
     "message": "FeedlyTool"
   },
   "options_autoload": {
-    "message": "Cikk automatikus terhelés"
+    "message": "Beban Pasal auto"
   },
   "options_autoload_disable": {
-    "message": "Letiltása"
+    "message": "Nonaktifkan"
   },
   "options_autoload_fullfeed": {
     "message": "fullfeed"
@@ -27,76 +27,80 @@
     "message": "FeedlyTool"
   },
   "options_autoload_empty_fullfeed": {
-    "message": "fullfeed az üres"
+    "message": "fullfeed pada kosong"
   },
   "options_autoload_empty_readability": {
-    "message": "Readability az üres"
+    "message": "Readability pada kosong"
   },
   "options_autoload_empty_instapaper": {
-    "message": "Instapaper az üres"
+    "message": "Instapaper pada kosong"
   },
   "options_autoload_empty_diffbot": {
-    "message": "DiffBot az üres"
+    "message": "DiffBot pada kosong"
   },
   "options_autoload_empty_feedlytool": {
-    "message": "FeedlyTool az üres"
+    "message": "FeedlyTool pada kosong"
   },
   "options_autoload_seved": {
-    "message": "Beállítás mentve."
+    "message": "Pengaturan Tersimpan."
   },
   "options_group_settings": {
-    "message": "Beállítások"
+    "message": "Pengaturan"
   },
   "options_ads_match_word": {
-    "message": "Hirdetések eltávolítása kulcsszó (regexp, figyelmen kívül hagyja az esetben)"
+    "message": "Iklan menghapus kata kunci (regexp, abaikan)"
   },
   "options_title_click_to_trash": {
-    "message": "Kattintson szemétbe kattintson a címre."
+    "message": "Klik sampah ketika klik judul."
   },
   "options_delete_token_and_setting": {
-    "message": "Törlés token és a beállítást."
+    "message": "Hapus tanda dan pengaturan."
   },
   "options_buttons_ok": {
-    "message": "OK"
+    "message": "Baik"
   },
   "options_buttons_cancel": {
-    "message": "Cancel"
+    "message": "Batalkan"
   },
   "options_buttons_confirm": {
-    "message": "Biztos benne, hogy törli?"
+    "message": "Apakah Anda yakin akan menghapus?"
   },
   "options_buttons_deleted": {
-    "message": "Teljes."
+    "message": "Lengkap."
   },
   "options_group_support": {
-    "message": "Tรกmogatรกs"
+    "message": "Mendukung "
   },
   "options_support_site": {
-    "message": "Telek"
+    "message": "Site"
   },
   "options_support_forum": {
-    "message": "Fรณrum"
+    "message": "Forum"
   },
   "mark_above_as_read": {
-    "message": "Mark fentebb olvasható"
+    "message": "Mark di atas sebagai dibaca"
   },
   "mark_above_not_star": {
-    "message": "Mark fenti nem csillag"
+    "message": "Mark atas tidak membintangi"
   },
   "open_feedly": {
-    "message": "Nyissa Feedly"
+    "message": "Buka Feedly"
   },
   "add_feedly": {
-    "message": "Iratkozzon fel Feedly"
+    "message": "Berlangganan dalam Feedly"
   },
   "custom_search": {
-    "message": "Nyomja meg az Entert a kereséshez"
+    "message": "Tekan Enter untuk Pencarian"
   },
   "background_open_changelog_confirm": {
-    "message": "FeedlyTool frissült v$after$ a v$before$.\nSzeretnéd a frissítéseket?",
+    "message": "FeedlyTool telah diperbarui untuk v$after$ dari v$before$ .\nApakah Anda ingin memeriksa update?",
     "placeholders": {
-      "before": {"content": "$1"},
-      "after": {"content": "$2"}
+      "before": {
+        "content": "$1"
+      },
+      "after": {
+        "content": "$2"
+      }
     }
   }
 }

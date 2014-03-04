@@ -1,15 +1,15 @@
 {
   "quasar_description": {
-    "message": "Kis eszköz Feedly. Kijelző olvasatlan gróf, Feliratkozás, távolítsa el hirdetéseket takarmányok, stb..."
+    "message": "Petita eina per Feedly. Visualitzar recompte no llegit, Subscriure, Eliminar anuncis pinsos i etc..."
   },
   "quasar_name": {
     "message": "FeedlyTool"
   },
   "options_autoload": {
-    "message": "Cikk automatikus terhelés"
+    "message": "Article càrrega automàtica"
   },
   "options_autoload_disable": {
-    "message": "Letiltása"
+    "message": "Desactiva"
   },
   "options_autoload_fullfeed": {
     "message": "fullfeed"
@@ -27,76 +27,80 @@
     "message": "FeedlyTool"
   },
   "options_autoload_empty_fullfeed": {
-    "message": "fullfeed az üres"
+    "message": "fullfeed al buit"
   },
   "options_autoload_empty_readability": {
-    "message": "Readability az üres"
+    "message": "Readability al buit"
   },
   "options_autoload_empty_instapaper": {
-    "message": "Instapaper az üres"
+    "message": "Instapaper al buit"
   },
   "options_autoload_empty_diffbot": {
-    "message": "DiffBot az üres"
+    "message": "DiffBot al buit"
   },
   "options_autoload_empty_feedlytool": {
-    "message": "FeedlyTool az üres"
+    "message": "FeedlyTool al buit"
   },
   "options_autoload_seved": {
-    "message": "Beállítás mentve."
+    "message": "Ajust guardat."
   },
   "options_group_settings": {
-    "message": "Beállítások"
+    "message": "Configuració"
   },
   "options_ads_match_word": {
-    "message": "Hirdetések eltávolítása kulcsszó (regexp, figyelmen kívül hagyja az esetben)"
+    "message": "Paraula Clau Anuncis remove (regexp, ignorar majúscules)"
   },
   "options_title_click_to_trash": {
-    "message": "Kattintson szemétbe kattintson a címre."
+    "message": "Feu clic a les escombraries quan es faci clic en el títol."
   },
   "options_delete_token_and_setting": {
-    "message": "Törlés token és a beállítást."
+    "message": "Eliminar token i ajust."
   },
   "options_buttons_ok": {
-    "message": "OK"
+    "message": "D'acord"
   },
   "options_buttons_cancel": {
-    "message": "Cancel"
+    "message": "Cancel·lar"
   },
   "options_buttons_confirm": {
-    "message": "Biztos benne, hogy törli?"
+    "message": "Esteu segur que voleu suprimir?"
   },
   "options_buttons_deleted": {
-    "message": "Teljes."
+    "message": "Complete."
   },
   "options_group_support": {
-    "message": "Tรกmogatรกs"
+    "message": "Suport"
   },
   "options_support_site": {
-    "message": "Telek"
+    "message": "Site"
   },
   "options_support_forum": {
-    "message": "Fรณrum"
+    "message": "Forum"
   },
   "mark_above_as_read": {
-    "message": "Mark fentebb olvasható"
+    "message": "Marcar com llegit anteriorment"
   },
   "mark_above_not_star": {
-    "message": "Mark fenti nem csillag"
+    "message": "Marcar anterior no estrella"
   },
   "open_feedly": {
-    "message": "Nyissa Feedly"
+    "message": "Obrir Feedly"
   },
   "add_feedly": {
-    "message": "Iratkozzon fel Feedly"
+    "message": "Subscriure en Feedly"
   },
   "custom_search": {
-    "message": "Nyomja meg az Entert a kereséshez"
+    "message": "Premeu Retorn per a Buscar"
   },
   "background_open_changelog_confirm": {
-    "message": "FeedlyTool frissült v$after$ a v$before$.\nSzeretnéd a frissítéseket?",
+    "message": "FeedlyTool s'ha actualitzat per v$after$ des v$before$.\nVols comprovar les actualitzacions?",
     "placeholders": {
-      "before": {"content": "$1"},
-      "after": {"content": "$2"}
+      "before": {
+        "content": "$1"
+      },
+      "after": {
+        "content": "$2"
+      }
     }
   }
 }

@@ -45,10 +45,13 @@
     "message": "Setting Saved."
   },
   "options_group_settings": {
-    "message": "Delete settings"
+    "message": "Settings"
   },
   "options_ads_match_word": {
     "message": "Ads remove keyword(regexp, ignore case)"
+  },
+  "options_title_click_to_trash": {
+    "message": "Click trash when click the title."
   },
   "options_delete_token_and_setting": {
     "message": "Delete token and setting."
@@ -80,20 +83,14 @@
   "mark_above_not_star": {
     "message": "Mark above not star"
   },
-  "get_token_confirm": {
-    "message": "Are you sure to re-authentication to get access token?"
-  },
-  "get_token_success": {
-    "message": "Succeeded to get the access token."
-  },
-  "get_token_failure": {
-    "message": "Failed to get the access token."
-  },
   "open_feedly": {
     "message": "Open Feedly"
   },
   "add_feedly": {
     "message": "Subscribe in Feedly"
+  },
+  "custom_search": {
+    "message": "Press Enter to Search"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool has been updated to v$after$ from v$before$.\nDo you want to check updates?",
