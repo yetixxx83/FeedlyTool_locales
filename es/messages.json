@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Haga clic en basura cuando haga clic en el título."
   },
+  "options_open_in_background_tab": {
+    "message": "Cambiar \"Open in a tab\" a \"Abrir en una pesta単a en segundo plano\""
+  },
   "options_delete_token_and_setting": {
     "message": "Eliminar token y ajuste."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Pulse Intro para Buscar"
+  },
+  "open_in_background_tab": {
+    "message": "Abrir en una pesta単a en segundo plano"
+  },
+  "options_disable_social_count": {
+    "message": "Desactivar recuento sociales"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool ha sido actualizado a la v$after$ de v$before$.\n¿Quieres comprobar las actualizaciones?",

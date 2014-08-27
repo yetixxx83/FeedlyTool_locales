@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Klik prullenbak toen op de titel."
   },
+  "options_open_in_background_tab": {
+    "message": "Change \"Open in a tab\" naar \"Openen in een tab op de achtergrond\""
+  },
   "options_delete_token_and_setting": {
     "message": "Delete token en omgeving."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Druk op Enter om te zoeken"
+  },
+  "open_in_background_tab": {
+    "message": "Opent in een tab op de achtergrond"
+  },
+  "options_disable_social_count": {
+    "message": "Uitschakelen sociale telling"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool is bijgewerkt om v$after$ uit v$before$.\nWil je updates controleren?",

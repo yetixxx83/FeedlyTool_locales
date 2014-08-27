@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "انقر فوق سلة المهملات عندما اللقب."
   },
+  "options_open_in_background_tab": {
+    "message": "التغيير \"Open in a tab\" إلى \"فتح في علامة تبويب الخلفية\""
+  },
   "options_delete_token_and_setting": {
     "message": "حذف رمزية والإعداد."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "اضغط دخول للبحث"
+  },
+  "open_in_background_tab": {
+    "message": "فتح في علامة تبويب الخلفية"
+  },
+  "options_disable_social_count": {
+    "message": "تعطيل الفرز الاجتماعي"
   },
   "background_open_changelog_confirm": {
     "message": "تم تحديث FeedlyTool إلى $after$ من $before$\nهل تريد أن تحقق التحديثات؟",

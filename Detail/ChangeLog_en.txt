@@ -2,6 +2,42 @@
 <table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(255,255,255);border-width:1px">
 <tbody>
 <tr>
+<td>2014/08/27</td>
+<td>v0.0.65</td>
+<td>Add "Disable social count" option.Fixed style sheet.</td>
+</tr>
+<tr>
+<tr>
+<td>2014/05/08</td>
+<td>v0.0.64</td>
+<td>Fixed an issue that are displayed 404 at FeedlyTool server.</td>
+</tr>
+<tr>
+<td>2014/05/07</td>
+<td>v0.0.63</td>
+<td>Fixed an issue that can not log in when there is more than one Google account.</td>
+</tr>
+<tr>
+<td>2014/04/07</td>
+<td>v0.0.62</td>
+<td>Exclude "/#discovery" page.</td>
+</tr>
+<tr>
+<td>2014/03/23</td>
+<td>v0.0.61</td>
+<td>Added Change "Open in a tab" to "Open in a background tab" setting in option page</td>
+</tr>
+<tr>
+<td>2014/03/18</td>
+<td>v0.0.60</td>
+<td>Supported the style change of feedly.com.</td>
+</tr>
+<tr>
+<td>2014/03/05</td>
+<td>v0.0.59</td>
+<td>Modified to get directly to Hatena the count of Hatena bookmark.</td>
+</tr>
+<tr>
 <td>2014/03/02</td>
 <td>v0.0.58</td>
 <td>Add resources new 7 languages(ar ca id lt pl sk sv). Also, tried to move FeedlyTool Server to Google App Engine because "500 error" occured in Azure.</td>

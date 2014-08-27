@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Klikněte na odpadky, když klikněte na nadpis."
   },
+  "options_open_in_background_tab": {
+    "message": "Změna \"Open in a tab\" na \"Otevřít v záložce na pozadí\""
+  },
   "options_delete_token_and_setting": {
     "message": "Odstranit tokenu a nastavení."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Stiskněte klávesu Enter na vyhledávání"
+  },
+  "open_in_background_tab": {
+    "message": "Otevřít v záložce na pozadí"
+  },
+  "options_disable_social_count": {
+    "message": "Zakázat sociální počtu"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool byl aktualizován na v$after$ z v$before$.\nChcete zkontrolovat aktualizace?",

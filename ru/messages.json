@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Нажмите мусорное ведро нажмите на название."
   },
+  "options_open_in_background_tab": {
+    "message": "Изменить \"Open in a tab\" на \"Открыть в фоновой вкладке\""
+  },
   "options_delete_token_and_setting": {
     "message": "Удалить маркер и настройки."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Нажмите Enter для поиска"
+  },
+  "open_in_background_tab": {
+    "message": "Открыть в фоновой вкладке"
+  },
+  "options_disable_social_count": {
+    "message": "Отключить социальной счет"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool обновлен до v$after$ от v$before$.\nВы хотите, чтобы проверить обновления?",

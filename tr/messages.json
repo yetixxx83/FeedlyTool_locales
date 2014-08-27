@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Başlığı tıkladığınızda çöp tıklatın."
   },
+  "options_open_in_background_tab": {
+    "message": "Değiştir \"Open in a tab\" \"Bir arka plan sekmesinde açma\" için"
+  },
   "options_delete_token_and_setting": {
     "message": "Simge ve ayarı silin."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Basın Arama Enter"
+  },
+  "open_in_background_tab": {
+    "message": "Bir arka plan sekmesinde açma"
+  },
+  "options_disable_social_count": {
+    "message": "Sosyal sayısını devre dışı"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool v$before$ gelen v$after$ için güncellendi.\nGüncellemeleri kontrol etmek istiyor musunuz?",

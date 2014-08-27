@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "点击标题时点击垃圾桶。"
   },
+  "options_open_in_background_tab": {
+    "message": "更改“Open in a tab”到“开启在后台标签页”"
+  },
   "options_delete_token_and_setting": {
     "message": "删除令牌和设置。"
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "按Enter键搜索"
+  },
+  "open_in_background_tab": {
+    "message": "开启在后台标签页"
+  },
+  "options_disable_social_count": {
+    "message": "禁用社交计数"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool已经更新到 v$after$ 从 v$before$。\n你要检查更新？",

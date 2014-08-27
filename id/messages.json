@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Klik sampah ketika klik judul."
   },
+  "options_open_in_background_tab": {
+    "message": "Ubah \"Open in a tab\" untuk \"Buka di tab latar belakang\""
+  },
   "options_delete_token_and_setting": {
     "message": "Hapus tanda dan pengaturan."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Tekan Enter untuk Pencarian"
+  },
+  "open_in_background_tab": {
+    "message": "Buka di tab latar belakang"
+  },
+  "options_disable_social_count": {
+    "message": "Nonaktifkan hitungan sosial"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool telah diperbarui untuk v$after$ dari v$before$ .\nApakah Anda ingin memeriksa update?",

@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Feu clic a les escombraries quan es faci clic en el títol."
   },
+  "options_open_in_background_tab": {
+    "message": "Canviar \"Open in a tab\" a \"Obre en una pestanya en segon pla\""
+  },
   "options_delete_token_and_setting": {
     "message": "Eliminar token i ajust."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Premeu Retorn per a Buscar"
+  },
+  "open_in_background_tab": {
+    "message": "Obre en una pestanya en segon pla"
+  },
+  "options_disable_social_count": {
+    "message": "Desactivar recompte socials"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool s'ha actualitzat per v$after$ des v$before$.\nVols comprovar les actualitzacions?",

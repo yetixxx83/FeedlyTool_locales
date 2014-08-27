@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Spauskite šiukšlių spustelėkite pavadinimą."
   },
+  "options_open_in_background_tab": {
+    "message": "Pakeisti \"Open in a tab\" į \"Atidaryti fone skirtuką\""
+  },
   "options_delete_token_and_setting": {
     "message": "Ištrinti raktas ir nustatymą."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Paspauskite Enter Paieška"
+  },
+  "open_in_background_tab": {
+    "message": "Atidaryti fono kortelėje"
+  },
+  "options_disable_social_count": {
+    "message": "Išjungti socialinę skaičių"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool buvo atnaujintas prieš $after$ nuo v $before$ .\nAr norite patikrinti atnaujinimus?",

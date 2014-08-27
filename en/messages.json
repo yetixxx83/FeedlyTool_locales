@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Click trash when click the title."
   },
+  "options_open_in_background_tab": {
+    "message": "Change \"Open in a tab\" to \"Open in a background tab\""
+  },
   "options_delete_token_and_setting": {
     "message": "Delete token and setting."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Press Enter to Search"
+  },
+  "open_in_background_tab": {
+    "message": "Open in a background tab"
+  },
+  "options_disable_social_count": {
+    "message": "Disable social count"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool has been updated to v$after$ from v$before$.\nDo you want to check updates?",

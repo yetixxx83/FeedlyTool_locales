@@ -2,6 +2,41 @@
 <table border="1" bordercolor="#888" cellspacing="0" style="border-collapse:collapse;border-color:rgb(255,255,255);border-width:1px">
 <tbody>
 <tr>
+<td>2014/08/27</td>
+<td>v0.0.65</td>
+<td>「ソーシャルカウントを表示しない」オプションを追加しました。その他、スタイルシート微修正。</td>
+</tr>
+<tr>
+<td>2014/05/08</td>
+<td>v0.0.64</td>
+<td>FeedlyToolサーバーで404が表示される問題を修正しました。</td>
+</tr>
+<tr>
+<td>2014/05/07</td>
+<td>v0.0.63</td>
+<td>複数Googleアカウントがあるときにログイン出来ない問題を修正しました。</td>
+</tr>
+<tr>
+<td>2014/04/07</td>
+<td>v0.0.62</td>
+<td>「/#discovery」で動作しないようにしました。</td>
+</tr>
+<tr>
+<td>2014/03/23</td>
+<td>v0.0.61</td>
+<td>「Open in a tab」を「バックグラウンドタブで開く」に変更する設定をオプションに追加しました。</td>
+</tr>
+<tr>
+<td>2014/03/18</td>
+<td>v0.0.60</td>
+<td>feedly.comのスタイル変更に対応しました。</td>
+</tr>
+<tr>
+<td>2014/03/05</td>
+<td>v0.0.59</td>
+<td>はてなブックマーク数ははてなに直接取りに行くようにしました。</td>
+</tr>
+<tr>
 <td>2014/03/02</td>
 <td>v0.0.58</td>
 <td>新たに７つの言語（ar ca id lt pl sk sv）に対応しました。また、Azureで500エラーが出るのでGoogle App Engineに移ってみました。</td>

@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Cliquez poubelle lors de cliquez sur le titre."
   },
+  "options_open_in_background_tab": {
+    "message": "Changement \"Open in a tab\" \"Ouvrir dans un onglet d'arrière-plan\""
+  },
   "options_delete_token_and_setting": {
     "message": "Supprimer jeton et le réglage."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Appuyez sur Entrée pour Recherche"
+  },
+  "open_in_background_tab": {
+    "message": "Ouvrir dans un onglet d'arrière-plan"
+  },
+  "options_disable_social_count": {
+    "message": "Désactiver comte sociale"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool a été mis à jour v$after$ de v$before$.\nVoulez-vous pour vérifier les mises à jour?",

@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Kliknij śmieciami kliknij jego tytuł."
   },
+  "options_open_in_background_tab": {
+    "message": "Zmień \"Open in a tab\" na \"Otwórz w karcie w tle\""
+  },
   "options_delete_token_and_setting": {
     "message": "Usuń znacznik i ustawienie."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Naciśnij Enter, aby wyszukać"
+  },
+  "open_in_background_tab": {
+    "message": "Otwórz w karcie w tle"
+  },
+  "options_disable_social_count": {
+    "message": "Wyłączyć licznik społecznej"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool został zaktualizowany do v$after$ from v$before$ .\nChcesz sprawdzić teraz?",

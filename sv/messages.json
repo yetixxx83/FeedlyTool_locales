@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Klicka på papperskorgen när klicka på titeln."
   },
+  "options_open_in_background_tab": {
+    "message": "Förändring \"Open in a tab\" till \"Öppna i flik bakgrund\""
+  },
   "options_delete_token_and_setting": {
     "message": "Radera tecken och inställning."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Tryck på Skriv för att söka"
+  },
+  "open_in_background_tab": {
+    "message": "Öppna i en flik bakgrund"
+  },
+  "options_disable_social_count": {
+    "message": "Inaktivera social count"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool har uppdaterats till v$after$ from v$before$ .\nVill du kolla uppdateringar?",

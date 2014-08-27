@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Kattintson szemétbe kattintson a címre."
   },
+  "options_open_in_background_tab": {
+    "message": "Vรกltozรกs \"Open in a tab\" a \"Megnyitรกs fรผlรถn a hรกttรฉrben\""
+  },
   "options_delete_token_and_setting": {
     "message": "Törlés token és a beállítást."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Nyomja meg az Entert a kereséshez"
+  },
+  "open_in_background_tab": {
+    "message": "Megnyitรกs fรผlรถn a hรกttรฉrben"
+  },
+  "options_disable_social_count": {
+    "message": "Letiltása társadalmi count"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool frissült v$after$ a v$before$.\nSzeretnéd a frissítéseket?",

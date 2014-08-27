@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "Klicken Papierkorb, wenn Sie auf den Titel."
   },
+  "options_open_in_background_tab": {
+    "message": "Change \"Open in a tab\", um \"In einem Hintergrund-Tab\""
+  },
   "options_delete_token_and_setting": {
     "message": "Löschen Token und Einstellung."
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "Drücken Sie zum Suchen"
+  },
+  "open_in_background_tab": {
+    "message": "In einem Hintergrund-Tab"
+  },
+  "options_disable_social_count": {
+    "message": "Deaktivieren sozialen Zahl"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool hat v$after$ wurde von v$before$ aktualisiert.\nMöchten Sie Updates?",

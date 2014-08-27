@@ -53,6 +53,9 @@
   "options_title_click_to_trash": {
     "message": "제목을 클릭하면 휴지통을 클릭합니다."
   },
+  "options_open_in_background_tab": {
+    "message": "변경 \"Open in a tab\" \"배경 탭에서 열기\"에"
+  },
   "options_delete_token_and_setting": {
     "message": "토큰 및 설정을 제거"
   },
@@ -91,6 +94,12 @@
   },
   "custom_search": {
     "message": "검색하려면 Enter를 누르세요"
+  },
+  "open_in_background_tab": {
+    "message": "배경 탭으로 열기"
+  },
+  "options_disable_social_count": {
+    "message": "사회 카운트를 사용하지 않도록 설정"
   },
   "background_open_changelog_confirm": {
     "message": "FeedlyTool는 v$before$ 에서 v$after$ 으로 업데이트되었습니다.\n당신은 업데이트를 확인 하시겠습니까?",
